@@ -11,6 +11,7 @@ This repo takes inspiration from [Conor Dewey](https://github.com/conordewey3), 
 3. [Hired](https://hired.com/) - Hired matches employers with qualified candidates through a combination of in-house algorithms and online support.
 4. [Scalable Path](https://www.scalablepath.com/) - Scalable Path is a premium talent matching service.
 5. [Kaggle](https://www.kaggle.com/jobs) - Scalable Path is a premium talent matching service.
+6. [Direct](https://github.com/firmai/business-machine-learning-vendors) - Contact companies directly (not recommended)
 
 
 
