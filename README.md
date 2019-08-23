@@ -240,3 +240,12 @@ A classic, but still good to this day. I mean come on, [Nate Silver](https://fiv
 [**Towards Data Science**](https://towardsdatascience.com/)
 Lastly, I’ve got to give a shoutout to the [TDS Team](https://towardsdatascience.com/u/7e12c71dfa81?source=post_page-----ea6afbe20319----------------------) for bringing together this community of smart people with a passion for achieving things and helping others grow in data science. Browsing recent stories will bring you more than a few interesting project ideas on any given day.
 
+
+### Respected Online Courses
+
+- [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+- [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
+- [Machine Learning and Deep Learning Fast.ai](https://www.fast.ai/)
+- [Machine Learning with TensorFlow on Google Cloud Platform](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
+- [TensorFlow in Practice Specialization](https://www.coursera.org/specializations/tensorflow-in-practice)
+
