@@ -364,7 +364,9 @@ Lastly, I’ve got to give a shoutout to the [TDS Team](https://towardsdatascien
 
 
 
-**Sponsor**
+**Sponsors**
+
+[Firmai.org](www.firmai.org) is a project that focuse on the aggregation of open source AI-BI applications. FirmAI envisions a future of open data access and the facilitation of small-medium enterprise automation. 
 
 Tired of technical phone screens? Take Triplebyte’s <a href="https://triplebyte.com/a/Nosq7GM/careerb">quiz</a> and go straight to final onsite interviews! Also check out Triplebyte’s <a href="https://triplebyte.com/a/Nosq7GM/careera?page=salary">Salary Tool!</a> They use real data from actual offers made to Triplebyte engineers. A few of the companies that use Triplebyte include Adobe, Robinhood, Box, Dropbox, Instacart, Evernote, Hipmunk, Grammarly & Palantir
 
