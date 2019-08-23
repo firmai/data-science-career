@@ -34,6 +34,7 @@ This repo takes inspiration from [Conor Dewey](https://github.com/conordewey3), 
 - [TensorFlow in Practice Specialization](https://www.coursera.org/specializations/tensorflow-in-practice)
 
 
+
 ## **Competitions**
 
 Some data mining competition platforms
@@ -49,7 +50,7 @@ Some data mining competition platforms
 
 - [Data Scientist]()
 - [Data Analyst]()
-- [Data Architect]()]()
+- [Data Architect]()
 - [Data Engineer]()
 - [Business Analyst]()
 - [Marketing Analyst]()
