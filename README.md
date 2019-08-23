@@ -34,7 +34,6 @@ This repo takes inspiration from [Conor Dewey](https://github.com/conordewey3), 
 - [TensorFlow in Practice Specialization](https://www.coursera.org/specializations/tensorflow-in-practice)
 
 
-
 ## **Competitions**
 
 Some data mining competition platforms
@@ -73,7 +72,7 @@ Some data mining competition platforms
 - [Sports]()
 
 
-# **Popular Skills**
+## **Popular Skills**
 
 - [Hadoop]()
 - [Hive]()
@@ -86,6 +85,55 @@ Some data mining competition platforms
 - [Tableau]()
 - [PowerBI]()
 
+
+## Podcasts
+
+- ### Podcasts for Beginners:
+    - [Talking Machines](http://www.thetalkingmachines.com/)
+    - [Linear Digressions](http://lineardigressions.com/)
+    - [Data Skeptic](http://dataskeptic.com/)
+    - [This Week in Machine Learning & AI](https://twimlai.com/)
+    - [Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning)
+
+- ### "More" advanced podcasts
+    - [Partially Derivative](http://partiallyderivative.com/)
+    - [O’Reilly Data Show](http://radar.oreilly.com/tag/oreilly-data-show-podcast)
+    - [Not So Standard Deviation](https://soundcloud.com/nssd-podcast)
+
+- ### Podcasts to think outside the box:
+    - [Data Stories](http://datastori.es/)
+
+## Communities
+
+- Quora
+    - [Machine Learning](https://www.quora.com/topic/Machine-Learning)
+    - [Statistics](https://www.quora.com/topic/Statistics-academic-discipline)
+    - [Data Mining](https://www.quora.com/topic/Data-Mining)
+
+- Reddit
+    - [Machine Learning](https://www.reddit.com/r/machinelearning)
+    - [Computer Vision](https://www.reddit.com/r/computervision)
+    - [Natural Language](https://www.reddit.com/r/languagetechnology)
+    - [Data Science](https://www.reddit.com/r/datascience)
+    - [Big Data](https://www.reddit.com/r/bigdata)
+    - [Statistics](https://www.reddit.com/r/statistics)
+
+- [Data Tau](http://www.datatau.com/)
+
+- [Deep Learning News](http://news.startup.ml/)
+
+- [KDnuggets](http://www.kdnuggets.com/)
+
+## Conferences
+
+- Neural Information Processing Systems ([NIPS](https://nips.cc/))
+- International Conference on Learning Representations ([ICLR](http://www.iclr.cc/doku.php?id=ICLR2017:main&redirect=1))
+- Association for the Advancement of Artificial Intelligence ([AAAI](http://www.aaai.org/Conferences/AAAI/aaai17.php))
+- IEEE Conference on Computational Intelligence and Games ([CIG](http://www.ieee-cig.org/))
+- IEEE International Conference on Machine Learning and Applications ([ICMLA](http://www.icmla-conference.org/))
+- International Conference on Machine Learning ([ICML](https://2017.icml.cc/))
+- International Joint Conferences on Artificial Intelligence ([IJCAI](http://www.ijcai.org/))
+- Association for Computational Linguistics ([ACL](http://acl2017.org/))
 
 ## **Colleges**
 
