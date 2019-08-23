@@ -1,6 +1,6 @@
 # Data Science and Machine Learning Career
 
-This repo takes inspiration from [Conor Dewey](https://github.com/conordewey3),  [Academic](https://github.com/academic/awesome-datascience), [CIO](https://www.cio.com/article/3051124/10-boot-camps-to-kick-start-your-data-science-career.html), [ZuZooVN](https://github.com/ZuzooVn/machine-learning-for-software-engineers), [Maxim](https://github.com/MaximAbramchuck)
+This repo is designed to give prospective analytical employees some additional information that might help with the job search. It takes inspiration from [Conor Dewey](https://github.com/conordewey3),  [Academic](https://github.com/academic/awesome-datascience), [CIO](https://www.cio.com/article/3051124/10-boot-camps-to-kick-start-your-data-science-career.html), [ZuZooVN](https://github.com/ZuzooVn/machine-learning-for-software-engineers), [Maxim](https://github.com/MaximAbramchuck)
 
 
 ## Platforms:
@@ -411,7 +411,7 @@ Lastly, I’ve got to give a shoutout to the [TDS Team](https://towardsdatascien
 
 
 
-## Tech Interview Handbook
+**Tech Interview Handbook**
 
 
 - [How to prepare](https://yangshun.github.io/tech-interview-handbook/coding-round-overview) for coding interviews
@@ -424,7 +424,7 @@ Lastly, I’ve got to give a shoutout to the [TDS Team](https://towardsdatascien
 - [Helpful resume tips](https://yangshun.github.io/tech-interview-handbook/resume) to get your resume noticed and the Do's and Don'ts
 
 
-## Python
+**Python**
 - [50 Python interview questions and answers](http://www.careerride.com/python-interview-questions.aspx)
 - [11 Essential Python Interview Questions from Toptal](http://www.toptal.com/python/interview-questions)
 - [A listing of questions that could potentially be asked for a python job listing](https://github.com/sigmavirus24/python-interview-questions)
@@ -496,71 +496,67 @@ Lastly, I’ve got to give a shoutout to the [TDS Team](https://towardsdatascien
 [H2O.ai](https://www.h2o.ai/) and 
 [SAP](https://www.sap.com/index.html)
 
-**"Great to Work for"**
+**"Great to work for"**
 
-Pivotal Software
-Domo
-Salesforce
-SiSense
-Google
-Couchbase
-Microsoft
-DataStax
-Actifio
-MongoDB
-Databricks
-MemSQL
-Informatica
-Talend
+Pivotal Software,
+Domo,
+Salesforce,
+SiSense,
+Google,
+Couchbase,
+Microsoft,
+DataStax,
+Actifio,
+MongoDB,
+Databricks,
+MemSQL,
+Informatica,
+Talend,
 Qubole
 
 **"Good to work for"**
 
-Tamr
-VoltDB
-Sumo Logic 
-Reltio
-Trifacta
-DataRobot
-MarkLogic
-Delphix
-EnterpriseDB
-Dell EMC
-Tableau Software
-Amazon Web Services
-Paxata
-Big Squid
-Kyvos Insights
-RapidMiner
+Tamr,
+VoltDB,
+Sumo Logic ,
+Reltio,
+Trifacta,
+DataRobot,
+MarkLogic,
+Delphix,
+EnterpriseDB,
+Dell EMC,
+Tableau Software,
+Amazon Web Services,
+Paxata,
+Big Squid,
+Kyvos Insights,
+RapidMiner,
 TIBCO
 
 **"It is a job"**
 
-Qlik
-IBM 
-SAS
-Magnitude Software
-Zaloni
-Splunk
-Information Builders
-Hewlett Packard Enterprise
-MicroStrategy
-Cloudera
-Oracle
-Alteryx
-Logi Analytics
-GoodData
-MapR Technologies
-Syncsort
-SnapLogic
-Outlier 
-Zoomdata 
-Hitachi Vantara/Pentaho
+Qlik,
+IBM,
+SAS,
+Magnitude Software,
+Zaloni,
+Splunk,
+Information Builders,
+Hewlett Packard Enterprise,
+MicroStrategy,
+Cloudera,
+Oracle,
+Alteryx,
+Logi Analytics,
+GoodData,
+MapR Technologies,
+Syncsort,
+SnapLogic,
+Outlier,
+Zoomdata,
+Hitachi Vantara/Pentaho,
 Datameer
-
-
-https://github.com/search?q=machine+learning+interview
-
 
 
 **Resume**
