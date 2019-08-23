@@ -6,8 +6,8 @@ This repo takes inspiration from [Conor Dewey](https://github.com/conordewey3), 
 ## Platforms:
 
 
-1. [Triplebyte](https://triplebyte.com/a/Nosq7GM/careera) - Take a quiz. Get offers from multiple top tech companies at once.
-2. [Toptal](https://www.toptal.com/) - Developers seeking to gain entry into the Toptal community are put through a battery of personality and technical tests.
+1. [Toptal](https://www.toptal.com/) - Developers seeking to gain entry into the Toptal community are put through a battery of personality and technical tests.
+2. [Triplebyte](https://triplebyte.com/a/Nosq7GM/careera) - Take a quiz. Get offers from multiple top tech companies at once. 
 3. [Hired](https://hired.com/) - Hired matches employers with qualified candidates through a combination of in-house algorithms and online support.
 4. [Scalable Path](https://www.scalablepath.com/) - Scalable Path is a premium talent matching service.
 5. [Kaggle](https://www.kaggle.com/jobs) - Scalable Path is a premium talent matching service.
