@@ -1,6 +1,5 @@
 # Data Science and Machine Learning Career
 
-# Data Science and Machine Learning Career
 This repo takes inspiration from [Conor Dewey](https://github.com/conordewey3),  **would** 
 
 
