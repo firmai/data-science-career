@@ -125,16 +125,16 @@ This repo is designed to give prospective analytical employees some additional i
 
 ## **Popular Skills**
 
-- [Hadoop]()
-- [Hive]()
-- [Java]()
-- [Python]()
-- [R]()
-- [Scala]()
-- [SAS]()
-- [SQL]()
-- [Tableau]()
-- [PowerBI]()
+- [Hadoop](https://hadoop.apache.org)
+- [Hive](https://hive.apache.org)
+- [Java](https://howtodoinjava.com)
+- [Python](https://www.python.org)
+- [R](https://www.r-project.org)
+- [Scala](https://www.scala-lang.org)
+- [SAS](www.sas.com)
+- [SQL](https://en.wikipedia.org)
+- [Tableau](https://www.tableau.com)
+- [PowerBI](https://powerbi.microsoft.com)
 
 
 ## Communities
@@ -268,11 +268,6 @@ Lastly, I’ve got to give a shoutout to the [TDS Team](https://towardsdatascien
 
 
 # Interviews
-
-**Meta**
-
-[GitHub: Deep Learning Interview](https://github.com/search?q=deep+learning+interview)
-[GitHub: Machine Learning Interview](https://github.com/search?q=machine+learning+interview)
 
 **General**
 
