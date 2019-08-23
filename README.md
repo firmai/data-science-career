@@ -48,6 +48,54 @@ This repo is designed to give prospective analytical employees some additional i
 - [Hacker Earth](https://www.hackerearth.com/)
 - [Solutions](https://github.com/interviewBubble/Data-Science-Competitions)
 
+
+## **Respected Bootcamps**
+
+
+| Name                                                     | Switchup Rating | Cost                                                                                                                                             | Locations                                                                                                                                                                                                                                    |
+| -------------------------------------------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [NYC Data Science Academy](https://nycdatascience.com)   | 4.87            | $17,600                                                                                                                                          | New York City and online                                                                                                                                                                                                                     |
+| [Dataquest](https://www.dataquest.io)                    | 4.92            | $29 for a basic monthly subscription; $49 for a premium monthly subscription                                                                     | Online                                                                                                                                                                                                                                       |
+| [RMOTR](https://rmotr.com)                               | 4.91            | $349 per month; one-week free trial available                                                                                                    | Online                                                                                                                                                                                                                                       |
+| [Springboard](https://www.springboard.com)               | 4.73            | $499 per month                                                                                                                                   | Online                                                                                                                                                                                                                                       |
+| [General Assembly](https://generalassemb.ly)             | 3.98            | $3,950 for the part-time online courses; $15,950 for the in-person full-time immersive bootcamp program                                          | Dallas, Providence, San Diego, San Francisco, Seattle, New York City, Washington (D.C.), Austin, Los Angeles, Atlanta, Denver, Chicago, London, Singapore, Hong Kong, Sydney, Melbourne, Boston, Santa Monica and online                     |
+| [Metis](https://www.thisismetis.com)                     | 4.91            | $750 per course                                                                                                                                  | Chicago, New York City, San Francisco, Seattle, Singapore and online                                                                                                                                                                         |
+| [Data Science Dojo](https://datasciencedojo.com)         | 4.91            | Packages range from $3,799 to $4,499 with the option for flexible payment plans                                                                  | Seattle, Washington (D.C.), Austin, Chicago, New York City, Toronto, Barcelona, Bucharest, Las Vegas, Singapore, Dubai, Amsterdam, Pretoria and Bangalore                                                                                    |
+| [Thinkful](https://www.thinkful.com)                     | 4.89            | $16,000 for the full-time course; $9,500 for the flexible six-month course                                                                       | Washington (D.C.), Philadelphia, Houston, Portland, Dallas, Los Angeles, Phoenix, San Diego, Atlanta, Miami, Tampa, Chicago, Raleigh-Durham, Denver, Boston, San Francisco, Detroit, Salt Lake City, Seattle, Minneapolis, Austin and online |
+| [DataCamp](https://www.datacamp.com)                     | 4.61            | $25 per month                                                                                                                                    | Online                                                                                                                                                                                                                                       |
+| [The Dev Masters](https://www.thedevmasters.com)         | 4.97            | $4,995 for project-based learning; $6,995 for the mastering applied data science program; $3,500 for the data science for professionals program. | Los Angeles, Orange County and Santa Monica                                                                                                                                                                                                  |
+| [Ubiqum Code Academy](https://ubiqum.com)                | 4.85            | $9,000                                                                                                                                           | Amsterdam, Barcelona, Berlin and Madrid                                                                                                                                                                                                      |
+| [Level](http://www.leveledu.com/)                        | 4.52            | $4,495 for the introductory data analytics course; $7,995 for the intermediate data analytics program                                            | Boston, Charlotte, San Francisco, San Jose, Seattle, Toronto and online                                                                                                                                                                      |
+| [The Data Incubators](https://www.thedataincubator.com/) | 4.52            | Free for accepted fellows                                                                                                                        | Boston, New York City, San Francisco, Washington (D.C.) and online                                                                                                                                                                           |
+| [Jedha](https://jedha.co)                                | 5.0             | $3,595 for the full stack data science program; $995 for the fundamentals in data science                                                        | Lyon and Paris                                                                                                                                                                                                                               |
+| [Science to Data Science](http://www.s2ds.org)           | 4.83            | £800 registration fee, after that the course is free if you are accepted                                                                         | London and online                                                                                                                                                                                                                            |
+
+## Podcasts
+
+- #### Podcasts for Beginners:
+    - [Talking Machines](http://www.thetalkingmachines.com/)
+    - [Linear Digressions](http://lineardigressions.com/)
+    - [Data Skeptic](http://dataskeptic.com/)
+    - [This Week in Machine Learning & AI](https://twimlai.com/)
+    - [Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning)
+    - [Adversarial Learning](http://adversariallearning.com/)
+    - [Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)
+    - [Data Crunch](http://vaultanalytics.com/datacrunch/)
+    - [Learning Machines 101](http://www.learningmachines101.com/)
+    - [Superdatascience](https://www.superdatascience.com/podcast/)
+    - [What's The Point](https://fivethirtyeight.com/tag/whats-the-point/)
+    - [Practical AI](https://changelog.com/practicalai)
+
+- #### "More" advanced podcasts
+    - [Partially Derivative](http://partiallyderivative.com/)
+    - [O’Reilly Data Show](http://radar.oreilly.com/tag/oreilly-data-show-podcast)
+    - [Not So Standard Deviation](https://soundcloud.com/nssd-podcast)
+
+- #### Podcasts to think outside the box:
+    - [Data Stories](http://datastori.es/)
+    
+
+
 ## **Popular Careers**
 
 - [Data Scientist](https://www.indeed.com/jobs?q=Data+Scientist&l=)
@@ -79,7 +127,7 @@ This repo is designed to give prospective analytical employees some additional i
 
 - [Hadoop]()
 - [Hive]()
-- [Java]()]()
+- [Java]()
 - [Python]()
 - [R]()
 - [Scala]()
@@ -138,53 +186,6 @@ This repo is designed to give prospective analytical employees some additional i
 - [Master of Management Analytics @ Queen's University](https://smith.queensu.ca/grad_studies/mma/index.php)
 - [Master of Data Science @ Illinois Institute of Technology](https://science.iit.edu/programs/graduate/master-data-science)
 
-
-## **Respected Bootcamps**
-
-
-| Name                                                     | Switchup Rating | Cost                                                                                                                                             | Locations                                                                                                                                                                                                                                    |
-| -------------------------------------------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [NYC Data Science Academy](https://nycdatascience.com)   | 4.87            | $17,600                                                                                                                                          | New York City and online                                                                                                                                                                                                                     |
-| [Dataquest](https://www.dataquest.io)                    | 4.92            | $29 for a basic monthly subscription; $49 for a premium monthly subscription                                                                     | Online                                                                                                                                                                                                                                       |
-| [RMOTR](https://rmotr.com)                               | 4.91            | $349 per month; one-week free trial available                                                                                                    | Online                                                                                                                                                                                                                                       |
-| [Springboard](https://www.springboard.com)               | 4.73            | $499 per month                                                                                                                                   | Online                                                                                                                                                                                                                                       |
-| [General Assembly](https://generalassemb.ly)             | 3.98            | $3,950 for the part-time online courses; $15,950 for the in-person full-time immersive bootcamp program                                          | Dallas, Providence, San Diego, San Francisco, Seattle, New York City, Washington (D.C.), Austin, Los Angeles, Atlanta, Denver, Chicago, London, Singapore, Hong Kong, Sydney, Melbourne, Boston, Santa Monica and online                     |
-| [Metis](https://www.thisismetis.com)                     | 4.91            | $750 per course                                                                                                                                  | Chicago, New York City, San Francisco, Seattle, Singapore and online                                                                                                                                                                         |
-| [Data Science Dojo](https://datasciencedojo.com)         | 4.91            | Packages range from $3,799 to $4,499 with the option for flexible payment plans                                                                  | Seattle, Washington (D.C.), Austin, Chicago, New York City, Toronto, Barcelona, Bucharest, Las Vegas, Singapore, Dubai, Amsterdam, Pretoria and Bangalore                                                                                    |
-| [Thinkful](https://www.thinkful.com)                     | 4.89            | $16,000 for the full-time course; $9,500 for the flexible six-month course                                                                       | Washington (D.C.), Philadelphia, Houston, Portland, Dallas, Los Angeles, Phoenix, San Diego, Atlanta, Miami, Tampa, Chicago, Raleigh-Durham, Denver, Boston, San Francisco, Detroit, Salt Lake City, Seattle, Minneapolis, Austin and online |
-| [DataCamp](https://www.datacamp.com)                     | 4.61            | $25 per month                                                                                                                                    | Online                                                                                                                                                                                                                                       |
-| [The Dev Masters](https://www.thedevmasters.com)         | 4.97            | $4,995 for project-based learning; $6,995 for the mastering applied data science program; $3,500 for the data science for professionals program. | Los Angeles, Orange County and Santa Monica                                                                                                                                                                                                  |
-| [Ubiqum Code Academy](https://ubiqum.com)                | 4.85            | $9,000                                                                                                                                           | Amsterdam, Barcelona, Berlin and Madrid                                                                                                                                                                                                      |
-| [Level](http://www.leveledu.com/)                        | 4.52            | $4,495 for the introductory data analytics course; $7,995 for the intermediate data analytics program                                            | Boston, Charlotte, San Francisco, San Jose, Seattle, Toronto and online                                                                                                                                                                      |
-| [The Data Incubators](https://www.thedataincubator.com/) | 4.52            | Free for accepted fellows                                                                                                                        | Boston, New York City, San Francisco, Washington (D.C.) and online                                                                                                                                                                           |
-| [Jedha](https://jedha.co)                                | 5.0             | $3,595 for the full stack data science program; $995 for the fundamentals in data science                                                        | Lyon and Paris                                                                                                                                                                                                                               |
-| [Science to Data Science](http://www.s2ds.org)           | 4.83            | £800 registration fee, after that the course is free if you are accepted                                                                         | London and online                                                                                                                                                                                                                            |
-
-
-## Podcasts
-
-- #### Podcasts for Beginners:
-    - [Talking Machines](http://www.thetalkingmachines.com/)
-    - [Linear Digressions](http://lineardigressions.com/)
-    - [Data Skeptic](http://dataskeptic.com/)
-    - [This Week in Machine Learning & AI](https://twimlai.com/)
-    - [Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning)
-    - [Adversarial Learning](http://adversariallearning.com/)
-    - [Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)
-    - [Data Crunch](http://vaultanalytics.com/datacrunch/)
-    - [Learning Machines 101](http://www.learningmachines101.com/)
-    - [Superdatascience](https://www.superdatascience.com/podcast/)
-    - [What's The Point](https://fivethirtyeight.com/tag/whats-the-point/)
-    - [Practical AI](https://changelog.com/practicalai)
-
-- #### "More" advanced podcasts
-    - [Partially Derivative](http://partiallyderivative.com/)
-    - [O’Reilly Data Show](http://radar.oreilly.com/tag/oreilly-data-show-podcast)
-    - [Not So Standard Deviation](https://soundcloud.com/nssd-podcast)
-
-- #### Podcasts to think outside the box:
-    - [Data Stories](http://datastori.es/)
-    
 
 ## Newsletters:
 
@@ -561,11 +562,11 @@ Hitachi Vantara/Pentaho,
 Datameer
 
 
-**Resume**
+### **Resume**
 - [Resume Builder](https://github.com/salomonelli/best-resume-ever) 
 
 
-**Sponsors**
+###**Sponsors**
 
 [Firmai.org](www.firmai.org) is a project that focuse on the aggregation of open source AI-BI applications. FirmAI envisions a future of open data access and the facilitation of small-medium enterprise automation. 
 
