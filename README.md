@@ -25,7 +25,7 @@ This repo takes inspiration from [Conor Dewey](https://github.com/conordewey3), 
 
 
 
-### Respected Online Courses
+## Respected Online Courses
 
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 - [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
@@ -47,7 +47,7 @@ Some data mining competition platforms
 
 
 
-# **Colleges**
+## **Colleges**
 
 
 - [Data Science Degree @ Berkeley](https://datascience.berkeley.edu/)
@@ -65,7 +65,7 @@ Some data mining competition platforms
 - [Master of Data Science @ Illinois Institute of Technology](https://science.iit.edu/programs/graduate/master-data-science)
 
 
-
+## **Respected Bootcamps**
 
 
 | Name                                                     | Switchup Rating | Cost                                                                                                                                             | Locations                                                                                                                                                                                                                                    |
