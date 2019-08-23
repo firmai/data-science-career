@@ -45,6 +45,45 @@ Some data mining competition platforms
 - [InnoCentive](https://www.innocentive.com/)
 - [TuneedIT](http://tunedit.org/challenges)
 
+## **Popular Careers**
+
+- [Data Scientist]()
+- [Data Analyst]()
+- [Data Architect]()]()
+- [Data Engineer]()
+- [Business Analyst]()
+- [Marketing Analyst]()
+- [Data And Analytics Manager]()
+- [Business Intelligence Analyst]()
+- [Data Mining Specialist]()
+- [Statistician]()
+
+
+## **Main Industries**
+
+- [Artificial Intelligence]()
+- [Biotechnology]()
+- [Finance]()
+- [Health Care]()
+- [Insurance]()
+- [Law Enforcement]()
+- [Logistics]()
+- [Marketing and Advertising]()
+- [Sports]()
+
+
+# **Popular Skills**
+
+- [Hadoop]()
+- [Hive]()
+- [Java]()]()
+- [Python]()
+- [R]()
+- [Scala]()
+- [SAS]()
+- [SQL]()
+- [Tableau]()
+- [PowerBI]()
 
 
 ## **Colleges**
@@ -99,6 +138,9 @@ Some data mining competition platforms
 - [Partially Derivative](http://partiallyderivative.com/)
 - [Superdatascience](https://www.superdatascience.com/podcast/)
 - [What's The Point](https://fivethirtyeight.com/tag/whats-the-point/)
+- [Practical AI](https://changelog.com/practicalai)
+- [Talking machines](https://overcast.fm/itunes955198749/talking-machines)
+- [This Week in Machine Learning](https://twimlai.com/)
 
 
 ## Newsletters:
