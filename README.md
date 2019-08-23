@@ -480,7 +480,7 @@ Lastly, I’ve got to give a shoutout to the [TDS Team](https://towardsdatascien
 - [SQL Interview Questions CHEAT SHEET](https://www.interviewbit.com/sql-interview-questions/)
 
 
-## Big Data and Business Analytics Companies (2019 Glassdoor Rankings)
+## Business Analytics Companies - 2019 Glassdoor Rankings
 
 **"Best to work for"**
 
@@ -566,7 +566,7 @@ Datameer
 - [Resume Builder](https://github.com/salomonelli/best-resume-ever) 
 
 
-###**Sponsors**
+### **Sponsors**
 
 [Firmai.org](www.firmai.org) is a project that focuse on the aggregation of open source AI-BI applications. FirmAI envisions a future of open data access and the facilitation of small-medium enterprise automation. 
 
