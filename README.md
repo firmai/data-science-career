@@ -1,6 +1,6 @@
 # Data Science and Machine Learning Career
 
-This repo takes inspiration from [Conor Dewey](https://github.com/conordewey3),  [Academic](https://github.com/academic/awesome-datascience), [CIO](https://www.cio.com/article/3051124/10-boot-camps-to-kick-start-your-data-science-career.html). 
+This repo takes inspiration from [Conor Dewey](https://github.com/conordewey3),  [Academic](https://github.com/academic/awesome-datascience), [CIO](https://www.cio.com/article/3051124/10-boot-camps-to-kick-start-your-data-science-career.html), [ZuZooVN](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 
 
 ## Platforms:
