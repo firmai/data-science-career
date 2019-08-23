@@ -37,8 +37,6 @@ This repo is designed to give prospective analytical employees some additional i
 
 ## **Competitions**
 
-Some data mining competition platforms
-
 - [Kaggle](https://www.kaggle.com/)
 - [DrivenData](https://www.drivendata.org/)
 - [DataHack](http://datahack.analyticsvidhya.com/)
@@ -52,29 +50,29 @@ Some data mining competition platforms
 
 ## **Popular Careers**
 
-- [Data Scientist]()
-- [Data Analyst]()
-- [Data Architect]()
-- [Data Engineer]()
-- [Business Analyst]()
-- [Marketing Analyst]()
-- [Data And Analytics Manager]()
-- [Business Intelligence Analyst]()
-- [Data Mining Specialist]()
-- [Statistician]()
+- [Data Scientist](https://www.indeed.com/jobs?q=Data+Scientist&l=)
+- [Data Analyst](https://www.indeed.com/jobs?q=Data+Analyst&l=)
+- [Data Architect](https://www.indeed.com/jobs?q=Data+Architect&l=)
+- [Data Engineer](https://www.indeed.com/jobs?q=Data+Engineer&l=)
+- [Business Analyst](https://www.indeed.com/jobs?q=Business+Analyst&l=)
+- [Marketing Analyst](https://www.indeed.com/jobs?q=Marketing+Analyst&l=)
+- [Data Manager](https://www.indeed.com/jobs?q=Data+Manager&l=)
+- [Business Intelligence Analyst](https://www.indeed.com/jobs?q=Business+Intelligence+Analyst&l=)
+- [Machine Learning Engineer](https://www.indeed.com/jobs?q=Machine+Learning+Engineer&l=)
+- [Statistician](https://www.indeed.com/jobs?q=Statistician&l=)
 
 
 ## **Main Industries**
 
-- [Artificial Intelligence]()
-- [Biotechnology]()
-- [Finance]()
-- [Health Care]()
-- [Insurance]()
-- [Law Enforcement]()
-- [Logistics]()
-- [Marketing and Advertising]()
-- [Sports]()
+- [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
+- [Biotechnology](https://en.wikipedia.org/wiki/Biotechnology)
+- [Finance](https://en.wikipedia.org/wiki/Finance)
+- [Health Care](https://en.wikipedia.org/wiki/Health_care)
+- [Insurance](https://en.wikipedia.org/wiki/Insurance)
+- [Law Enforcement](https://en.wikipedia.org/wiki/Law_enforcement)
+- [Logistics](https://en.wikipedia.org/wiki/Logistics)
+- [Marketing and Advertising](https://en.wikipedia.org/wiki/Marketing)
+- [Sports](https://en.wikipedia.org/wiki/Sport)
 
 
 ## **Popular Skills**
