@@ -24,6 +24,83 @@ This repo takes inspiration from [Conor Dewey](https://github.com/conordewey3), 
 - [InHerSight](https://www.inhersight.com/) - Best female-friendly perspective.
 
 
+
+### Respected Online Courses
+
+- [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+- [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
+- [Machine Learning and Deep Learning Fast.ai](https://www.fast.ai/)
+- [Machine Learning with TensorFlow on Google Cloud Platform](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
+- [TensorFlow in Practice Specialization](https://www.coursera.org/specializations/tensorflow-in-practice)
+
+
+## **Competitions**
+
+Some data mining competition platforms
+
+- [Kaggle](https://www.kaggle.com/)
+- [DrivenData](https://www.drivendata.org/)
+- [Analytics Vidhya](http://datahack.analyticsvidhya.com/)
+- [The Data Science Game](http://www.datasciencegame.com/)
+- [InnoCentive](https://www.innocentive.com/)
+- [TuneedIT](http://tunedit.org/challenges)
+
+
+
+# **Colleges**
+
+
+- [Data Science Degree @ Berkeley](https://datascience.berkeley.edu/)
+- [Data Science Degree @ UVA](https://dsi.virginia.edu/)
+- [Data Science Degree @ Wisconsin](http://datasciencedegree.wisconsin.edu/)
+- [Master of Information @ Rutgers](http://online.rutgers.edu/master-library-info/)
+- [MS in Computer Information Systems @ Boston University](http://cisonline.bu.edu/)
+- [MS in Business Analytics @ ASU Online](http://asuonline.asu.edu/online-degree-programs/graduate/master-science-business-analytics/)
+- [Data Science Engineer @ BTH](https://www.bth.se/nyheter/bth-startar-sveriges-forsta-civilingenjorsprogram-inom-data-science/)
+- [MS in Applied Data Science @ Syracuse](https://ischool.syr.edu/academics/graduate/masters-degrees/ms-in-applied-data-science/)
+- [M.S. Management & Data Science @ Leuphana](https://www.leuphana.de/en/graduate-school/master/course-offerings/management-data-science.html)
+- [Master of Data Science @ Melbourne University](https://science-courses.unimelb.edu.au/study/degrees/master-of-data-science/overview#overview)
+- [Msc in Data Science @ The University of Edinburgh](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&id=902)
+- [Master of Management Analytics @ Queen's University](https://smith.queensu.ca/grad_studies/mma/index.php)
+- [Master of Data Science @ Illinois Institute of Technology](https://science.iit.edu/programs/graduate/master-data-science)
+
+
+
+
+
+| Name                                                     | Switchup Rating | Cost                                                                                                                                             | Locations                                                                                                                                                                                                                                    |
+| -------------------------------------------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [NYC Data Science Academy](https://nycdatascience.com)   | 4.87            | $17,600                                                                                                                                          | New York City and online                                                                                                                                                                                                                     |
+| [Dataquest](https://www.dataquest.io)                    | 4.92            | $29 for a basic monthly subscription; $49 for a premium monthly subscription                                                                     | Online                                                                                                                                                                                                                                       |
+| [RMOTR](https://rmotr.com)                               | 4.91            | $349 per month; one-week free trial available                                                                                                    | Online                                                                                                                                                                                                                                       |
+| [Springboard](https://www.springboard.com)               | 4.73            | $499 per month                                                                                                                                   | Online                                                                                                                                                                                                                                       |
+| [General Assembly](https://generalassemb.ly)             | 3.98            | $3,950 for the part-time online courses; $15,950 for the in-person full-time immersive bootcamp program                                          | Dallas, Providence, San Diego, San Francisco, Seattle, New York City, Washington (D.C.), Austin, Los Angeles, Atlanta, Denver, Chicago, London, Singapore, Hong Kong, Sydney, Melbourne, Boston, Santa Monica and online                     |
+| [Metis](https://www.thisismetis.com)                     | 4.91            | $750 per course                                                                                                                                  | Chicago, New York City, San Francisco, Seattle, Singapore and online                                                                                                                                                                         |
+| [Data Science Dojo](https://datasciencedojo.com)         | 4.91            | Packages range from $3,799 to $4,499 with the option for flexible payment plans                                                                  | Seattle, Washington (D.C.), Austin, Chicago, New York City, Toronto, Barcelona, Bucharest, Las Vegas, Singapore, Dubai, Amsterdam, Pretoria and Bangalore                                                                                    |
+| [Thinkful](https://www.thinkful.com)                     | 4.89            | $16,000 for the full-time course; $9,500 for the flexible six-month course                                                                       | Washington (D.C.), Philadelphia, Houston, Portland, Dallas, Los Angeles, Phoenix, San Diego, Atlanta, Miami, Tampa, Chicago, Raleigh-Durham, Denver, Boston, San Francisco, Detroit, Salt Lake City, Seattle, Minneapolis, Austin and online |
+| [DataCamp](https://www.datacamp.com)                     | 4.61            | $25 per month                                                                                                                                    | Online                                                                                                                                                                                                                                       |
+| [The Dev Masters](https://www.thedevmasters.com)         | 4.97            | $4,995 for project-based learning; $6,995 for the mastering applied data science program; $3,500 for the data science for professionals program. | Los Angeles, Orange County and Santa Monica                                                                                                                                                                                                  |
+| [Ubiqum Code Academy](https://ubiqum.com)                | 4.85            | $9,000                                                                                                                                           | Amsterdam, Barcelona, Berlin and Madrid                                                                                                                                                                                                      |
+| [Level](http://www.leveledu.com/)                        | 4.52            | $4,495 for the introductory data analytics course; $7,995 for the intermediate data analytics program                                            | Boston, Charlotte, San Francisco, San Jose, Seattle, Toronto and online                                                                                                                                                                      |
+| [The Data Incubators](https://www.thedataincubator.com/) | 4.52            | Free for accepted fellows                                                                                                                        | Boston, New York City, San Francisco, Washington (D.C.) and online                                                                                                                                                                           |
+| [Jedha](https://jedha.co)                                | 5.0             | $3,595 for the full stack data science program; $995 for the fundamentals in data science                                                        | Lyon and Paris                                                                                                                                                                                                                               |
+| [Science to Data Science](http://www.s2ds.org)           | 4.83            | £800 registration fee, after that the course is free if you are accepted                                                                         | London and online                                                                                                                                                                                                                            |
+
+
+## **Podcasts**
+- [Adversarial Learning](http://adversariallearning.com/)
+- [Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)
+- [Data Crunch](http://vaultanalytics.com/datacrunch/)
+- [Data Skeptic](https://dataskeptic.com/)
+- [Data Stories](http://datastori.es/)
+- [Learning Machines 101](http://www.learningmachines101.com/)
+- [Linear Digressions](http://lineardigressions.com/)
+- [Not So Standard Deviations](https://soundcloud.com/nssd-podcast)
+- [Partially Derivative](http://partiallyderivative.com/)
+- [Superdatascience](https://www.superdatascience.com/podcast/)
+- [What's The Point](https://fivethirtyeight.com/tag/whats-the-point/)
+
+
 ## Newsletters:
 
 [**Data Science Weekly**](https://www.datascienceweekly.org/)
@@ -81,6 +158,27 @@ Data Is Plural is delivered weekly, focusing solely on interesting datasets for 
 [**TDS Weekly Selection**](https://towardsdatascience.com/tagged/tds-letter)
 
 Last but not least, the team at [Towards Data Science](https://towardsdatascience.com/) puts out both weekly and monthly digests of the most popular posts on the publication. You can receive these emails by accepting *Letters* from TDS if you go to the dropdown found on their homepage. Check out a [recent issue](https://towardsdatascience.com/weekly-selection-mar-15-2019-cbe5aa422a31).
+
+
+
+
+## Project Inspiration:
+
+[**Data is Beautiful**](https://www.reddit.com/r/dataisbeautiful/)
+I could spend hours just browsing this subreddit of data visualizations. You’ll be interested in all of the unique ideas and questions that people think up. There’s also monthly challenge where a dataset is chosen, and users are tasked with visualizing it in the most effective way possible. Sort by best all time for instant gratification.
+
+[**Kaggle**](https://www.kaggle.com/datasets)
+I would be remiss if I didn’t mention the poster child of online data science. There’s a couple ways to use Kaggle effectively for inspiration. First, you can look at the [trending datasets](https://www.kaggle.com/datasets) and think of interesting ways to leverage the information. If you’re more interested in machine learning and the examples themselves, the [kernels feature](https://www.kaggle.com/kernels) has gotten better and better over time.
+
+[**The Pudding**](https://pudding.cool/)
+It really is true that visual essays are an emerging form of journalism. The Pudding embodies this movement like none other. The team uses original datasets, primary research, and interactivity in order to explore tons of interesting topics.
+
+[**FiveThirtyEight**](https://fivethirtyeight.com/)
+A classic, but still good to this day. I mean come on, [Nate Silver](https://fivethirtyeight.com/contributors/nate-silver/) is the man. The data-driven blog touches on everything from politics to sports to culture. Not to mention, they just revamped their much improved [data export](https://data.fivethirtyeight.com/) page.
+
+[**Towards Data Science**](https://towardsdatascience.com/)
+Lastly, I’ve got to give a shoutout to the [TDS Team](https://towardsdatascience.com/u/7e12c71dfa81?source=post_page-----ea6afbe20319----------------------) for bringing together this community of smart people with a passion for achieving things and helping others grow in data science. Browsing recent stories will bring you more than a few interesting project ideas on any given day.
+
 
 
 # Interviews
@@ -220,103 +318,4 @@ Last but not least, the team at [Towards Data Science](https://towardsdatascienc
 - [Youtube Intro to Big Data with PySpark](https://www.youtube.com/playlist?list=PLE50-dh6JzC5zo2whIGqJ02CIhP3ysQLX)
 - [Spark Documentation Screencasts](http://spark.apache.org/screencasts/1-first-steps-with-spark.html)
 - [PySpark Cheatsheet](https://www.datacamp.com/community/blog/pyspark-cheat-sheet-python)
-
-
-
-## Project Inspiration:
-
-[**Data is Beautiful**](https://www.reddit.com/r/dataisbeautiful/)
-I could spend hours just browsing this subreddit of data visualizations. You’ll be interested in all of the unique ideas and questions that people think up. There’s also monthly challenge where a dataset is chosen, and users are tasked with visualizing it in the most effective way possible. Sort by best all time for instant gratification.
-
-[**Kaggle**](https://www.kaggle.com/datasets)
-I would be remiss if I didn’t mention the poster child of online data science. There’s a couple ways to use Kaggle effectively for inspiration. First, you can look at the [trending datasets](https://www.kaggle.com/datasets) and think of interesting ways to leverage the information. If you’re more interested in machine learning and the examples themselves, the [kernels feature](https://www.kaggle.com/kernels) has gotten better and better over time.
-
-[**The Pudding**](https://pudding.cool/)
-It really is true that visual essays are an emerging form of journalism. The Pudding embodies this movement like none other. The team uses original datasets, primary research, and interactivity in order to explore tons of interesting topics.
-
-[**FiveThirtyEight**](https://fivethirtyeight.com/)
-A classic, but still good to this day. I mean come on, [Nate Silver](https://fivethirtyeight.com/contributors/nate-silver/) is the man. The data-driven blog touches on everything from politics to sports to culture. Not to mention, they just revamped their much improved [data export](https://data.fivethirtyeight.com/) page.
-
-[**Towards Data Science**](https://towardsdatascience.com/)
-Lastly, I’ve got to give a shoutout to the [TDS Team](https://towardsdatascience.com/u/7e12c71dfa81?source=post_page-----ea6afbe20319----------------------) for bringing together this community of smart people with a passion for achieving things and helping others grow in data science. Browsing recent stories will bring you more than a few interesting project ideas on any given day.
-
-
-
-
-
-| Name                                                     | Switchup Rating | Cost                                                                                                                                             | Locations                                                                                                                                                                                                                                    |
-| -------------------------------------------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [NYC Data Science Academy](https://nycdatascience.com)   | 4.87            | $17,600                                                                                                                                          | New York City and online                                                                                                                                                                                                                     |
-| [Dataquest](https://www.dataquest.io)                    | 4.92            | $29 for a basic monthly subscription; $49 for a premium monthly subscription                                                                     | Online                                                                                                                                                                                                                                       |
-| [RMOTR](https://rmotr.com)                               | 4.91            | $349 per month; one-week free trial available                                                                                                    | Online                                                                                                                                                                                                                                       |
-| [Springboard](https://www.springboard.com)               | 4.73            | $499 per month                                                                                                                                   | Online                                                                                                                                                                                                                                       |
-| [General Assembly](https://generalassemb.ly)             | 3.98            | $3,950 for the part-time online courses; $15,950 for the in-person full-time immersive bootcamp program                                          | Dallas, Providence, San Diego, San Francisco, Seattle, New York City, Washington (D.C.), Austin, Los Angeles, Atlanta, Denver, Chicago, London, Singapore, Hong Kong, Sydney, Melbourne, Boston, Santa Monica and online                     |
-| [Metis](https://www.thisismetis.com)                     | 4.91            | $750 per course                                                                                                                                  | Chicago, New York City, San Francisco, Seattle, Singapore and online                                                                                                                                                                         |
-| [Data Science Dojo](https://datasciencedojo.com)         | 4.91            | Packages range from $3,799 to $4,499 with the option for flexible payment plans                                                                  | Seattle, Washington (D.C.), Austin, Chicago, New York City, Toronto, Barcelona, Bucharest, Las Vegas, Singapore, Dubai, Amsterdam, Pretoria and Bangalore                                                                                    |
-| [Thinkful](https://www.thinkful.com)                     | 4.89            | $16,000 for the full-time course; $9,500 for the flexible six-month course                                                                       | Washington (D.C.), Philadelphia, Houston, Portland, Dallas, Los Angeles, Phoenix, San Diego, Atlanta, Miami, Tampa, Chicago, Raleigh-Durham, Denver, Boston, San Francisco, Detroit, Salt Lake City, Seattle, Minneapolis, Austin and online |
-| [DataCamp](https://www.datacamp.com)                     | 4.61            | $25 per month                                                                                                                                    | Online                                                                                                                                                                                                                                       |
-| [The Dev Masters](https://www.thedevmasters.com)         | 4.97            | $4,995 for project-based learning; $6,995 for the mastering applied data science program; $3,500 for the data science for professionals program. | Los Angeles, Orange County and Santa Monica                                                                                                                                                                                                  |
-| [Ubiqum Code Academy](https://ubiqum.com)                | 4.85            | $9,000                                                                                                                                           | Amsterdam, Barcelona, Berlin and Madrid                                                                                                                                                                                                      |
-| [Level](http://www.leveledu.com/)                        | 4.52            | $4,495 for the introductory data analytics course; $7,995 for the intermediate data analytics program                                            | Boston, Charlotte, San Francisco, San Jose, Seattle, Toronto and online                                                                                                                                                                      |
-| [The Data Incubators](https://www.thedataincubator.com/) | 4.52            | Free for accepted fellows                                                                                                                        | Boston, New York City, San Francisco, Washington (D.C.) and online                                                                                                                                                                           |
-| [Jedha](https://jedha.co)                                | 5.0             | $3,595 for the full stack data science program; $995 for the fundamentals in data science                                                        | Lyon and Paris                                                                                                                                                                                                                               |
-| [Science to Data Science](http://www.s2ds.org)           | 4.83            | £800 registration fee, after that the course is free if you are accepted                                                                         | London and online                                                                                                                                                                                                                            |
-
-
-
-## **Colleges**
-
-
-- [Data Science Degree @ Berkeley](https://datascience.berkeley.edu/)
-- [Data Science Degree @ UVA](https://dsi.virginia.edu/)
-- [Data Science Degree @ Wisconsin](http://datasciencedegree.wisconsin.edu/)
-- [Master of Information @ Rutgers](http://online.rutgers.edu/master-library-info/)
-- [MS in Computer Information Systems @ Boston University](http://cisonline.bu.edu/)
-- [MS in Business Analytics @ ASU Online](http://asuonline.asu.edu/online-degree-programs/graduate/master-science-business-analytics/)
-- [Data Science Engineer @ BTH](https://www.bth.se/nyheter/bth-startar-sveriges-forsta-civilingenjorsprogram-inom-data-science/)
-- [MS in Applied Data Science @ Syracuse](https://ischool.syr.edu/academics/graduate/masters-degrees/ms-in-applied-data-science/)
-- [M.S. Management & Data Science @ Leuphana](https://www.leuphana.de/en/graduate-school/master/course-offerings/management-data-science.html)
-- [Master of Data Science @ Melbourne University](https://science-courses.unimelb.edu.au/study/degrees/master-of-data-science/overview#overview)
-- [Msc in Data Science @ The University of Edinburgh](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&id=902)
-- [Master of Management Analytics @ Queen's University](https://smith.queensu.ca/grad_studies/mma/index.php)
-- [Master of Data Science @ Illinois Institute of Technology](https://science.iit.edu/programs/graduate/master-data-science)
-
-
-
-## **Podcasts**
-- [Adversarial Learning](http://adversariallearning.com/)
-- [Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)
-- [Data Crunch](http://vaultanalytics.com/datacrunch/)
-- [Data Skeptic](https://dataskeptic.com/)
-- [Data Stories](http://datastori.es/)
-- [Learning Machines 101](http://www.learningmachines101.com/)
-- [Linear Digressions](http://lineardigressions.com/)
-- [Not So Standard Deviations](https://soundcloud.com/nssd-podcast)
-- [Partially Derivative](http://partiallyderivative.com/)
-- [Superdatascience](https://www.superdatascience.com/podcast/)
-- [What's The Point](https://fivethirtyeight.com/tag/whats-the-point/)
-
-
-
-## **Competitions**
-
-Some data mining competition platforms
-
-- [Kaggle](https://www.kaggle.com/)
-- [DrivenData](https://www.drivendata.org/)
-- [Analytics Vidhya](http://datahack.analyticsvidhya.com/)
-- [The Data Science Game](http://www.datasciencegame.com/)
-- [InnoCentive](https://www.innocentive.com/)
-- [TuneedIT](http://tunedit.org/challenges)
-
-
-
-
-### Respected Online Courses
-
-- [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
-- [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
-- [Machine Learning and Deep Learning Fast.ai](https://www.fast.ai/)
-- [Machine Learning with TensorFlow on Google Cloud Platform](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
-- [TensorFlow in Practice Specialization](https://www.coursera.org/specializations/tensorflow-in-practice)
 
