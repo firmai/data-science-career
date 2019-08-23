@@ -86,23 +86,6 @@ Some data mining competition platforms
 - [PowerBI]()
 
 
-## Podcasts
-
-- ### Podcasts for Beginners:
-    - [Talking Machines](http://www.thetalkingmachines.com/)
-    - [Linear Digressions](http://lineardigressions.com/)
-    - [Data Skeptic](http://dataskeptic.com/)
-    - [This Week in Machine Learning & AI](https://twimlai.com/)
-    - [Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning)
-
-- ### "More" advanced podcasts
-    - [Partially Derivative](http://partiallyderivative.com/)
-    - [O’Reilly Data Show](http://radar.oreilly.com/tag/oreilly-data-show-podcast)
-    - [Not So Standard Deviation](https://soundcloud.com/nssd-podcast)
-
-- ### Podcasts to think outside the box:
-    - [Data Stories](http://datastori.es/)
-
 ## Communities
 
 - Quora
@@ -175,22 +158,30 @@ Some data mining competition platforms
 | [Science to Data Science](http://www.s2ds.org)           | 4.83            | £800 registration fee, after that the course is free if you are accepted                                                                         | London and online                                                                                                                                                                                                                            |
 
 
-## **Podcasts**
-- [Adversarial Learning](http://adversariallearning.com/)
-- [Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)
-- [Data Crunch](http://vaultanalytics.com/datacrunch/)
-- [Data Skeptic](https://dataskeptic.com/)
-- [Data Stories](http://datastori.es/)
-- [Learning Machines 101](http://www.learningmachines101.com/)
-- [Linear Digressions](http://lineardigressions.com/)
-- [Not So Standard Deviations](https://soundcloud.com/nssd-podcast)
-- [Partially Derivative](http://partiallyderivative.com/)
-- [Superdatascience](https://www.superdatascience.com/podcast/)
-- [What's The Point](https://fivethirtyeight.com/tag/whats-the-point/)
-- [Practical AI](https://changelog.com/practicalai)
-- [Talking machines](https://overcast.fm/itunes955198749/talking-machines)
-- [This Week in Machine Learning](https://twimlai.com/)
+## Podcasts
 
+- #### Podcasts for Beginners:
+    - [Talking Machines](http://www.thetalkingmachines.com/)
+    - [Linear Digressions](http://lineardigressions.com/)
+    - [Data Skeptic](http://dataskeptic.com/)
+    - [This Week in Machine Learning & AI](https://twimlai.com/)
+    - [Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning)
+    - [Adversarial Learning](http://adversariallearning.com/)
+    - [Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)
+    - [Data Crunch](http://vaultanalytics.com/datacrunch/)
+    - [Learning Machines 101](http://www.learningmachines101.com/)
+    - [Superdatascience](https://www.superdatascience.com/podcast/)
+    - [What's The Point](https://fivethirtyeight.com/tag/whats-the-point/)
+    - [Practical AI](https://changelog.com/practicalai)
+
+- #### "More" advanced podcasts
+    - [Partially Derivative](http://partiallyderivative.com/)
+    - [O’Reilly Data Show](http://radar.oreilly.com/tag/oreilly-data-show-podcast)
+    - [Not So Standard Deviation](https://soundcloud.com/nssd-podcast)
+
+- #### Podcasts to think outside the box:
+    - [Data Stories](http://datastori.es/)
+    
 
 ## Newsletters:
 
