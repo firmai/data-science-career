@@ -6,7 +6,7 @@ This repo takes inspiration from [Conor Dewey](https://github.com/conordewey3), 
 ## Platforms:
 
 
-1. [Triplebyte](https://triplebyte.com/a/Nosq7GM/d) - Take a quiz. Get offers from multiple top tech companies at once.
+1. [Triplebyte](https://triplebyte.com/a/Nosq7GM/careera) - Take a quiz. Get offers from multiple top tech companies at once.
 2. [Toptal](https://www.toptal.com/) - Developers seeking to gain entry into the Toptal community are put through a battery of personality and technical tests.
 3. [Hired](https://hired.com/) - Hired matches employers with qualified candidates through a combination of in-house algorithms and online support.
 4. [Scalable Path](https://www.scalablepath.com/) - Scalable Path is a premium talent matching service.
@@ -361,4 +361,11 @@ Lastly, I’ve got to give a shoutout to the [TDS Team](https://towardsdatascien
 - [Youtube Intro to Big Data with PySpark](https://www.youtube.com/playlist?list=PLE50-dh6JzC5zo2whIGqJ02CIhP3ysQLX)
 - [Spark Documentation Screencasts](http://spark.apache.org/screencasts/1-first-steps-with-spark.html)
 - [PySpark Cheatsheet](https://www.datacamp.com/community/blog/pyspark-cheat-sheet-python)
+
+
+
+**Sponsor**
+
+Tired of technical phone screens? Take Triplebyte’s <a href="https://triplebyte.com/a/Nosq7GM/careerb">quiz</a> and go straight to final onsite interviews! Also check out Triplebyte’s <a href="https://triplebyte.com/a/Nosq7GM/careera?page=salary">Salary Tool!</a> They use real data from actual offers made to Triplebyte engineers. A few of the companies that use Triplebyte include Adobe, Robinhood, Box, Dropbox, Instacart, Evernote, Hipmunk, Grammarly & Palantir
+
 
