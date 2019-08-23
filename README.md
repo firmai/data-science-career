@@ -1,6 +1,6 @@
 # Data Science and Machine Learning Career
 
-This repo takes inspiration from [Conor Dewey](https://github.com/conordewey3),  [Academic](https://github.com/academic/awesome-datascience), [CIO](https://www.cio.com/article/3051124/10-boot-camps-to-kick-start-your-data-science-career.html), [ZuZooVN](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+This repo takes inspiration from [Conor Dewey](https://github.com/conordewey3),  [Academic](https://github.com/academic/awesome-datascience), [CIO](https://www.cio.com/article/3051124/10-boot-camps-to-kick-start-your-data-science-career.html), [ZuZooVN](https://github.com/ZuzooVn/machine-learning-for-software-engineers), [Maxim](https://github.com/MaximAbramchuck)
 
 
 ## Platforms:
@@ -266,6 +266,11 @@ Lastly, I’ve got to give a shoutout to the [TDS Team](https://towardsdatascien
 
 # Interviews
 
+**Meta**
+
+[GitHub: Deep Learning Interview](https://github.com/search?q=deep+learning+interview)
+[GitHub: Machine Learning Interview](https://github.com/search?q=machine+learning+interview)
+
 **General**
 
 - [Interview Q&A bank](https://github.com/iamtodor/data-science-interview-questions-and-answers)
@@ -292,7 +297,9 @@ Lastly, I’ve got to give a shoutout to the [TDS Team](https://towardsdatascien
 - [Dataquest Data Science Career Guide](https://www.dataquest.io/blog/data-science-career-guide/?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_227)
 - [Notes and technical questions from interviewing as a Data Scientist in 2018](https://towardsdatascience.com/notes-and-technical-questions-from-interviewing-as-a-data-scientist-in-2018-20e7e3ee4ab3)
 - [Mastering the Data Science Interview Loop](https://towardsdatascience.com/mastering-the-data-science-interview-15f9c0a558a7)
-    
+- [Data Science Interview Questions for Top Tech Companies](https://www.dezyre.com/article/-data-science-interview-questions-for-top-tech-companies/189)
+- [66 Job Interview Questions for Data Scientists](http://www.datasciencecentral.com/profiles/blogs/66-job-interview-questions-for-data-scientists)
+- [An Annotated List of Data Scientist Technical Interview Questions](https://www.recruityourninja.com/technical-interview-questions-data-scientist/)
 
 **Algorithmic Coding & Python**
 
@@ -402,6 +409,162 @@ Lastly, I’ve got to give a shoutout to the [TDS Team](https://towardsdatascien
 - [Spark Documentation Screencasts](http://spark.apache.org/screencasts/1-first-steps-with-spark.html)
 - [PySpark Cheatsheet](https://www.datacamp.com/community/blog/pyspark-cheat-sheet-python)
 
+
+
+## Tech Interview Handbook
+
+
+- [How to prepare](https://yangshun.github.io/tech-interview-handbook/coding-round-overview) for coding interviews
+- [Interview Cheatsheet](https://yangshun.github.io/tech-interview-handbook/cheatsheet) - Straight-to-the-point Do's and Don'ts
+- [Algorithm tips and the best practice questions](https://yangshun.github.io/tech-interview-handbook/algorithms/algorithms-introduction) categorized by topic
+- ["Front-end Job Interview Questions" answers](https://github.com/yangshun/front-end-interview-handbook)
+- [Interview formats](https://yangshun.github.io/tech-interview-handbook/company-interview-formats) of the top tech companies
+- [Behavioral questions](https://yangshun.github.io/tech-interview-handbook/behavioral-questions) asked by the top tech companies
+- [Good questions to ask your interviewers](https://yangshun.github.io/tech-interview-handbook/questions-to-ask) at the end of the interviews
+- [Helpful resume tips](https://yangshun.github.io/tech-interview-handbook/resume) to get your resume noticed and the Do's and Don'ts
+
+
+## Python
+- [50 Python interview questions and answers](http://www.careerride.com/python-interview-questions.aspx)
+- [11 Essential Python Interview Questions from Toptal](http://www.toptal.com/python/interview-questions)
+- [A listing of questions that could potentially be asked for a python job listing](https://github.com/sigmavirus24/python-interview-questions)
+- [Interview Questions for both beginners and experts](http://www.bogotobogo.com/python/python_interview_questions.php)
+- [Interview Cake Python Interview Questions](https://www.interviewcake.com/python-interview-questions)
+- [Python Frequently Asked Questions (Programming)](https://docs.python.org/2/faq/programming.html)
+- [Python interview questions collected by Reddit users](https://www.reddit.com/r/Python/comments/1knw7z/python_interview_questions)
+- [Python Interview Questions from questionscompiled](http://www.questionscompiled.com/python-interview-questions.html)
+- [Top 25 Python Interview Questions from Career Guru](http://career.guru99.com/top-25-python-interview-questions/)
+- [Python Interview 10 questions from Corey Schafer](https://www.youtube.com/watch?v=DEwgZNC-KyE)
+- [Python interview questions. Part I. Junior](https://luminousmen.com/post/6)
+- [Python interview questions. Part II. Middle](https://luminousmen.com/post/7)
+- [Python interview questions. Part III. Senior](https://luminousmen.com/post/8)
+- [Python Interview Questions and Answers (2019)](https://www.interviewbit.com/python-interview-questions/)
+
+**Scala**
+
+- [4 Interview Questions for Scala Developers](http://insights.dice.com/2014/09/12/4-interview-questions-scala-developers/)
+- [A list of Frequently Asked Questions and their answers, sorted by category](http://www.scala-lang.org/old/faq)
+- [A list of helpful Scala related questions you can use to interview potential candidates](https://github.com/Jarlakxen/Scala-Interview-Questions)
+- [How Scala Developers Are Being Interviewed](http://programmers.stackexchange.com/questions/58145/how-scala-developers-are-being-interviewed)
+- [Scala Interview Questions/Answers including Language Questions, Functional Programming Questions, Reactive Programming Questions](https://github.com/peterarsentev/Scala-Interview-Questions-Answers)
+- [Top 25 Scala Interview Questions & Answers from Toptal](http://career.guru99.com/top-25-interview-questions-on-scala/)
+
+**MongoDB**
+
+- [28 MongoDB NoSQL Database Interview Questions and Answers](http://theprofessionalspoint.blogspot.com.by/2014/01/28-mongodb-nosql-database-interview.html)
+- [MongoDB frequently Asked Questions by expert members with experience in MongoDB These questions and answers will help you strengthen your technical skills, prepare for the new job test and quickly revise the concepts](http://www.globalguideline.com/interview_questions/Questions.php?sc=MongoDB)
+- [MongoDB Interview Questions from JavaTPointcom](http://www.javatpoint.com/mongodb-interview-questions)
+- [MongoDB Interview Questions that have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of MongoDB](http://www.tutorialspoint.com/mongodb/mongodb_interview_questions.htm)
+- [Top 20 MongoDB interview questions from Career Guru](http://career.guru99.com/top-20-mongodb-interview-questions/)
+
+**MySQL**
+
+- [10 MySQL Database Interview Questions for Beginners and Intermediates](http://www.tecmint.com/10-mysql-database-interview-questions-for-beginners-and-intermediates/)
+- [100 MySQL interview questions](http://www.careerride.com/MySQL-Interview-Questions.aspx)
+- [15 Basic MySQL Interview Questions for Database Administrators](http://www.tecmint.com/basic-mysql-interview-questions-for-database-administrators/)
+- [28 MySQL interview questions from JavaTPoint.com](http://www.javatpoint.com/mysql-interview-questions)
+- [40 Basic MySQL Interview Questions with Answers](http://www.testingbrain.com/interview/mysql-interview-questions.html)
+- [Top 50 MySQL Interview Questions & Answers from Career Guru](http://career.guru99.com/top-50-mysql-interview-questions-answers/)
+
+**SQL**
+
+- [10 Frequently asked SQL Query Interview Questions](http://java67.blogspot.com.by/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html)
+- [45 Essential SQL Interview Questions from Toptal](http://www.toptal.com/sql/interview-questions)
+- [Common Interview Questions and Answers](http://www.indiabix.com/technical/sql-server-common-questions/)
+- [General Interview Questions and Answers](http://www.indiabix.com/technical/sql-server-general-questions/)
+- [Schema, Questions & Solutions for SQL Exercising](https://github.com/XD-DENG/SQL-exercise)
+- [SQL Interview Questions that have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of SQL](http://www.tutorialspoint.com/sql/sql_interview_questions.htm)
+- [SQL Interview Questions CHEAT SHEET](https://www.interviewbit.com/sql-interview-questions/)
+
+
+## Big Data and Business Analytics Companies (2019 Glassdoor Rankings)
+
+**"Best to work for"**
+
+[Arcadia Data](https://www.arcadiadata.com/),
+[FiveTran](https://fivetran.com/), 
+[InfluxData](https://www.influxdata.com/), 
+[Dataiku](https://www.dataiku.com/), 
+[Confluent](https://www.confluent.io/), 
+[Redis Labs](https://redislabs.com/), 
+[StreamSets](https://streamsets.com/), 
+[Looker](https://looker.com/), 
+[Periscope Data](https://www.periscopedata.com/),
+[ThoughtSpot](https://www.thoughtspot.com/), 
+[Alation](https://alation.com/),
+[Dremio](https://www.dremio.com/), 
+[H2O.ai](https://www.h2o.ai/) and 
+[SAP](https://www.sap.com/index.html)
+
+**"Great to Work for"**
+
+Pivotal Software
+Domo
+Salesforce
+SiSense
+Google
+Couchbase
+Microsoft
+DataStax
+Actifio
+MongoDB
+Databricks
+MemSQL
+Informatica
+Talend
+Qubole
+
+**"Good to work for"**
+
+Tamr
+VoltDB
+Sumo Logic 
+Reltio
+Trifacta
+DataRobot
+MarkLogic
+Delphix
+EnterpriseDB
+Dell EMC
+Tableau Software
+Amazon Web Services
+Paxata
+Big Squid
+Kyvos Insights
+RapidMiner
+TIBCO
+
+**"It is a job"**
+
+Qlik
+IBM 
+SAS
+Magnitude Software
+Zaloni
+Splunk
+Information Builders
+Hewlett Packard Enterprise
+MicroStrategy
+Cloudera
+Oracle
+Alteryx
+Logi Analytics
+GoodData
+MapR Technologies
+Syncsort
+SnapLogic
+Outlier 
+Zoomdata 
+Hitachi Vantara/Pentaho
+Datameer
+
+
+https://github.com/search?q=machine+learning+interview
+
+
+
+**Resume**
+- [Resume Builder](https://github.com/salomonelli/best-resume-ever) 
 
 
 **Sponsors**
