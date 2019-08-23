@@ -370,4 +370,6 @@ Lastly, I’ve got to give a shoutout to the [TDS Team](https://towardsdatascien
 
 Tired of technical phone screens? Take Triplebyte’s <a href="https://triplebyte.com/a/Nosq7GM/careerb">quiz</a> and go straight to final onsite interviews! Also check out Triplebyte’s <a href="https://triplebyte.com/a/Nosq7GM/careera?page=salary">Salary Tool!</a> They use real data from actual offers made to Triplebyte engineers. A few of the companies that use Triplebyte include Adobe, Robinhood, Box, Dropbox, Instacart, Evernote, Hipmunk, Grammarly & Palantir
 
+[r/datascienceproject](https://www.reddit.com/r/datascienceproject/) is a subreddit where you can share all your data science projects. There is no restrictions on self promotion. Let the best post rise to the top. One rule, it has to relate to a data science project.
+
 
