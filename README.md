@@ -1,6 +1,6 @@
 # Data Science and Machine Learning Career
 
-This repo is designed to give prospective analytical employees some additional information that might help with the job search. It takes inspiration from [Conor Dewey](https://github.com/conordewey3),  [Academic](https://github.com/academic/awesome-datascience), [CIO](https://www.cio.com/article/3051124/10-boot-camps-to-kick-start-your-data-science-career.html), [ZuZooVN](https://github.com/ZuzooVn/machine-learning-for-software-engineers), [Maxim](https://github.com/MaximAbramchuck)
+This repo is designed to give prospective analytical employees some additional information that might help with the job search. It takes inspiration from [Conor Dewey](https://github.com/conordewey3),  [Academic](https://github.com/academic/awesome-datascience), [CIO](https://www.cio.com/article/3051124/10-boot-camps-to-kick-start-your-data-science-career.html), [ZuZooVN](https://github.com/ZuzooVn/machine-learning-for-software-engineers), [Maxim](https://github.com/MaximAbramchuck), [ryanswanstorm](https://github.com/ryanswanstrom/awesome-datascience-colleges)
 
 
 ## Platforms:
@@ -41,10 +41,14 @@ Some data mining competition platforms
 
 - [Kaggle](https://www.kaggle.com/)
 - [DrivenData](https://www.drivendata.org/)
-- [Analytics Vidhya](http://datahack.analyticsvidhya.com/)
+- [DataHack](http://datahack.analyticsvidhya.com/)
+- [Machine Hack](https://www.machinehack.com/)
 - [The Data Science Game](http://www.datasciencegame.com/)
+- [CrowdANALYTIX](https://www.crowdanalytix.com/)
 - [InnoCentive](https://www.innocentive.com/)
 - [TuneedIT](http://tunedit.org/challenges)
+- [Hacker Earth](https://www.hackerearth.com/)
+- [Solutions](https://github.com/interviewBubble/Data-Science-Competitions)
 
 ## **Popular Careers**
 
@@ -121,7 +125,7 @@ Some data mining competition platforms
 
 ## **Colleges**
 
-
+- [All Data Science Colleges](http://datascience.community/colleges)
 - [Data Science Degree @ Berkeley](https://datascience.berkeley.edu/)
 - [Data Science Degree @ UVA](https://dsi.virginia.edu/)
 - [Data Science Degree @ Wisconsin](http://datasciencedegree.wisconsin.edu/)
