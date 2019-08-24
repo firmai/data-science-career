@@ -153,6 +153,38 @@ This repo is designed to give prospective analytical employees some additional i
 - [Sports](https://en.wikipedia.org/wiki/Sport)
 
 
+## **Thought Leaders**
+
+- [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
+- [Biotechnology](https://en.wikipedia.org/wiki/Biotechnology)
+- [Finance](https://en.wikipedia.org/wiki/Finance)
+    - Marcos Lopez de Prado
+    - Igor Halperin
+    - Gordon Ritter
+    - Paul Bilokon
+    - Saeed Amen
+    - Apoorv Saxena
+    - Charles Elkan
+    - Mike Schuster
+- [Health Care](https://en.wikipedia.org/wiki/Health_care)
+- [Insurance](https://en.wikipedia.org/wiki/Insurance)
+- [Law Enforcement](https://en.wikipedia.org/wiki/Law_enforcement)
+- [Logistics](https://en.wikipedia.org/wiki/Logistics)
+- [Marketing and Advertising](https://en.wikipedia.org/wiki/Marketing)
+- [Sports](https://en.wikipedia.org/wiki/Sport)
+
+
+
+## **Highest Paying Data Science Jobs**
+
+- [Pinterest](https://www.paysa.com/salaries/pinterest--data-scientist)
+- [Lyft ](https://www.paysa.com/salaries/lyft--data-scientist)
+- [Uber  ](https://www.paysa.com/salaries/uber--data-scientist)
+- [Facebook  ](https://www.paysa.com/salaries/facebook--data-scientist)
+- [Dropbox  ](https://www.paysa.com/salaries/dropbox--data-scientist)
+
+
+
 ## **Respected Skills**
 
 - Statistics
