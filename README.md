@@ -110,13 +110,41 @@ This repo is designed to give prospective analytical employees some additional i
 - [Statistician](https://www.indeed.com/jobs?q=Statistician&l=)
 
 
-## **Main Industries**
+## **Main Industry Companies**
 
 - [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
 - [Biotechnology](https://en.wikipedia.org/wiki/Biotechnology)
+    - AbbVie
+    - Aduro Biotech
+    - Genentech
+    - Illumina
+    - Jounce Therapeutics
+    - Merck & Company
+    - Somalogic
 - [Finance](https://en.wikipedia.org/wiki/Finance)
+    - JP Morgan
+    - Barclays
+    - Goldman Sachs
+    - Two Sigma
+    - Renaissance
+    - Citadel
+    - AQR
+    - Bridgewater
+    - DE Shaw
+    - Blackstone
+    - Bain Capital
 - [Health Care](https://en.wikipedia.org/wiki/Health_care)
+    - Berg
+    - CHAMPS Oncology
+    - DarkMatter2db
+    - Health Catalyst
+    - Kairoi Health
 - [Insurance](https://en.wikipedia.org/wiki/Insurance)
+    - Allianz SE
+    - UnitedHealth
+    - Anthem
+    - Humana
+    - Centene Corporation
 - [Law Enforcement](https://en.wikipedia.org/wiki/Law_enforcement)
 - [Logistics](https://en.wikipedia.org/wiki/Logistics)
 - [Marketing and Advertising](https://en.wikipedia.org/wiki/Marketing)
