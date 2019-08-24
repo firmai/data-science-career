@@ -624,6 +624,46 @@ Hitachi Vantara/Pentaho,
 Datameer
 
 
+### Most Data Scientists (per Linkedin Recruiter)
+
+- IBM
+- Microsoft
+- Accenture
+- Amazon
+- Tata Consultancy
+- Cognizant
+- Google
+- Capgemini
+- Infosys
+- Oracle
+
+### Most Numerous Data Science Skills (per Linkedin Recruiter)
+
+- Data Analysis
+- Python
+- R
+- Machine Learning
+- Statistics
+- Data Mining
+- Big Data
+- Deep Learning
+- Data Visualisation
+- NLP
+
+
+### Most Numerous Data Science Industries (per Linkedin Recruiter)
+
+- Information Technology and Services
+- Computer Software
+- Research
+- Higher Eductation
+- Financial Services
+- Telecommunications
+- Management Consulting
+- Internet
+- Banking
+- Insurances
+
 ### **Resume**
 - [Resume Builder](https://github.com/salomonelli/best-resume-ever) 
 
