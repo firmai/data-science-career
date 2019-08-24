@@ -12,6 +12,8 @@ This repo is designed to give prospective analytical employees some additional i
 4. [Scalable Path](https://www.scalablepath.com/) - Scalable Path is a premium talent matching service.
 5. [Kaggle](https://www.kaggle.com/jobs) - Scalable Path is a premium talent matching service.
 6. [Direct](https://github.com/firmai/business-machine-learning-vendors) - Contact companies directly (not recommended)
+7. [AI Jobs](https://ai-jobs.net/)
+8. [Analytics Jobs](https://www.analyticsjobs.co.uk/)
 
 
 
@@ -151,16 +153,21 @@ This repo is designed to give prospective analytical employees some additional i
 - [Sports](https://en.wikipedia.org/wiki/Sport)
 
 
-## **Popular Skills**
+## **Respected Skills**
 
+- Statistics
+- Applied Mathematics
 - [Hadoop](https://hadoop.apache.org)
+- Spark
 - [Hive](https://hive.apache.org)
 - [Java](https://howtodoinjava.com)
 - [Python](https://www.python.org)
+- Tensorflow, Keras, Pytorch
 - [R](https://www.r-project.org)
 - [Scala](https://www.scala-lang.org)
 - [SAS](www.sas.com)
 - [SQL](https://en.wikipedia.org)
+- [NoSQL]()
 - [Tableau](https://www.tableau.com)
 - [PowerBI](https://powerbi.microsoft.com)
 
