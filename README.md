@@ -51,6 +51,38 @@ This repo is designed to give prospective analytical employees some additional i
 - [Solutions](https://github.com/interviewBubble/Data-Science-Competitions)
 
 
+## **Respected Packages (300 listings)**
+
+- [Python](https://www.python.org)
+- [R](https://www.r-project.org)
+- [SQL](https://en.wikipedia.org)
+- Apache Spark
+- [Hadoop](https://hadoop.apache.org)
+- [Java](https://howtodoinjava.com)
+- [Scala](https://www.scala-lang.org)
+- Tensorflow, Keras
+- Pandas
+- Numpy
+- [SAS](www.sas.com)
+- [NoSQL]()
+- [Tableau](https://www.tableau.com)
+- [PowerBI](https://powerbi.microsoft.com)
+- [Hive](https://hive.apache.org)
+
+## **Respected Skill Tags (300 listings)**
+
+- Machine Learning
+- Statistics
+- Applied Mathematics
+- Big Data
+- Deep Learning
+- Data Visualisation
+- Data Analysis
+- NLP
+- ETL
+- Computer Vision
+
+
 ## **Respected Bootcamps**
 
 
@@ -183,25 +215,6 @@ This repo is designed to give prospective analytical employees some additional i
 - [Facebook  ](https://www.paysa.com/salaries/facebook--data-scientist)
 - [Dropbox  ](https://www.paysa.com/salaries/dropbox--data-scientist)
 
-
-
-## **Respected Skills**
-
-- Statistics
-- Applied Mathematics
-- [Hadoop](https://hadoop.apache.org)
-- Spark
-- [Hive](https://hive.apache.org)
-- [Java](https://howtodoinjava.com)
-- [Python](https://www.python.org)
-- Tensorflow, Keras, Pytorch
-- [R](https://www.r-project.org)
-- [Scala](https://www.scala-lang.org)
-- [SAS](www.sas.com)
-- [SQL](https://en.wikipedia.org)
-- [NoSQL]()
-- [Tableau](https://www.tableau.com)
-- [PowerBI](https://powerbi.microsoft.com)
 
 
 ## Communities
