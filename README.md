@@ -10,7 +10,7 @@ This repo is designed to give prospective analytical employees some additional i
 2. [Triplebyte](https://triplebyte.com/a/Nosq7GM/careera) - Take a quiz. Get offers from multiple top tech companies at once. 
 3. [Hired](https://hired.com/) - Hired matches employers with qualified candidates through a combination of in-house algorithms and online support.
 4. [Scalable Path](https://www.scalablepath.com/) - Scalable Path is a premium talent matching service.
-5. [Kaggle](https://www.kaggle.com/jobs) - Scalable Path is a premium talent matching service.
+5. [Kaggle](https://www.kaggle.com/jobs) - Take your competition skills to an employer.
 6. [Direct](https://github.com/firmai/business-machine-learning-vendors) - Contact companies directly (not recommended)
 7. [AI Jobs](https://ai-jobs.net/)
 8. [Analytics Jobs](https://www.analyticsjobs.co.uk/)
