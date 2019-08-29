@@ -51,7 +51,7 @@ This repo is designed to give prospective analytical employees some additional i
 - [Solutions](https://github.com/interviewBubble/Data-Science-Competitions)
 
 
-## **Respected Packages (300 listings)**
+## **Respected Packages (From 300 listings)**
 
 - [Python](https://www.python.org)
 - [R](https://www.r-project.org)
@@ -69,7 +69,7 @@ This repo is designed to give prospective analytical employees some additional i
 - [PowerBI](https://powerbi.microsoft.com)
 - [Hive](https://hive.apache.org)
 
-## **Respected Skill Tags (300 listings)**
+## **Respected Skill Tags (From 300 listings)**
 
 - Machine Learning
 - Statistics
