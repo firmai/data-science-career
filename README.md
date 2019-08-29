@@ -12,8 +12,8 @@ This repo is designed to give prospective analytical employees some additional i
 4. [Scalable Path](https://www.scalablepath.com/) - Scalable Path is a premium talent matching service.
 5. [Kaggle](https://www.kaggle.com/jobs) - Take your competition skills to an employer.
 6. [Direct](https://github.com/firmai/business-machine-learning-vendors) - Contact companies directly (not recommended)
-7. [AI Jobs](https://ai-jobs.net/)
-8. [Analytics Jobs](https://www.analyticsjobs.co.uk/)
+7. [AI Jobs](https://ai-jobs.net/) - Jobs in AI and Big Data
+8. [Analytics Jobs UK](https://www.analyticsjobs.co.uk/) - Support analytics workers with useful career information
 
 
 
@@ -56,15 +56,15 @@ This repo is designed to give prospective analytical employees some additional i
 - [Python](https://www.python.org)
 - [R](https://www.r-project.org)
 - [SQL](https://en.wikipedia.org)
-- Apache Spark
+- [Apache Spark](https://spark.apache.org/)
 - [Hadoop](https://hadoop.apache.org)
 - [Java](https://howtodoinjava.com)
 - [Scala](https://www.scala-lang.org)
-- Tensorflow, Keras
-- Pandas
-- Numpy
+- [Tensorflow](https://www.tensorflow.org/), [Keras](https://keras.io/)
+- [Pandas](https://pandas.pydata.org)
+- [Numpy](https://numpy.org)
 - [SAS](www.sas.com)
-- [NoSQL]()
+- [MongoDB](https://www.mongodb.com)
 - [Tableau](https://www.tableau.com)
 - [PowerBI](https://powerbi.microsoft.com)
 - [Hive](https://hive.apache.org)
@@ -581,20 +581,20 @@ Lastly, I’ve got to give a shoutout to the [TDS Team](https://towardsdatascien
 
 **"Best to work for"**
 
-[Arcadia Data](https://www.arcadiadata.com/),
-[FiveTran](https://fivetran.com/), 
-[InfluxData](https://www.influxdata.com/), 
-[Dataiku](https://www.dataiku.com/), 
-[Confluent](https://www.confluent.io/), 
-[Redis Labs](https://redislabs.com/), 
-[StreamSets](https://streamsets.com/), 
-[Looker](https://looker.com/), 
-[Periscope Data](https://www.periscopedata.com/),
-[ThoughtSpot](https://www.thoughtspot.com/), 
-[Alation](https://alation.com/),
-[Dremio](https://www.dremio.com/), 
-[H2O.ai](https://www.h2o.ai/) and 
-[SAP](https://www.sap.com/index.html)
+Arcadia Data,
+FiveTran, 
+InfluxData, 
+Dataiku, 
+Confluent, 
+Redis Labs, 
+StreamSets, 
+Looker, 
+Periscope Data,
+ThoughtSpot, 
+Alation,
+Dremio, 
+H2O.ai and 
+SAP
 
 **"Great to work for"**
 
