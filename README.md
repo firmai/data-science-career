@@ -147,6 +147,13 @@ This repo is designed to give prospective analytical employees some additional i
 ## **Main Industry Companies**
 
 - [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
+    - Google
+    - Amazon
+    - Microsoft
+    - IBM
+    - Salesforce
+    - Intel
+    - OpenAI
 - [Biotechnology](https://en.wikipedia.org/wiki/Biotechnology)
     - AbbVie
     - Aduro Biotech
@@ -179,13 +186,28 @@ This repo is designed to give prospective analytical employees some additional i
     - Anthem
     - Humana
     - Centene Corporation
-- [Law Enforcement](https://en.wikipedia.org/wiki/Law_enforcement)
 - [Logistics](https://en.wikipedia.org/wiki/Logistics)
+    - Amazon
+    - Wallmart
+    - Tesla
+    - Convoy
+    - Flexport
+    - FedEx
+    - CargoX
+    - 6 River Systems
+    - Nuro
 - [Marketing and Advertising](https://en.wikipedia.org/wiki/Marketing)
-- [Sports](https://en.wikipedia.org/wiki/Sport)
-
+    - Amazon
+    - Google
+    - Facebook
+    - Asos
+    - Alibaba
+    - InsideSales.com
+    - Conversica
+    
 
 ## **Thought Leaders**
+I don't know the other areas that well, send my your thought leaders by pull request. 
 
 - [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
 - [Biotechnology](https://en.wikipedia.org/wiki/Biotechnology)
