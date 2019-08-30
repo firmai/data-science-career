@@ -312,6 +312,19 @@ I don't know the other areas that well, send my your thought leaders by pull req
 - International Joint Conferences on Artificial Intelligence ([IJCAI](http://www.ijcai.org/))
 - Association for Computational Linguistics ([ACL](http://acl2017.org/))
 
+## Journals, Publications and Magazines
+
+ * [ICML](http://icml.cc/2015/) - International Conference on Machine Learning
+ * [epjdatascience](http://epjdatascience.springeropen.com/)
+ * [Journal of Data Science](http://www.jds-online.com/) - an international journal devoted to applications of statistical methods at large
+ * [Big Data Research](https://www.journals.elsevier.com/big-data-research)
+ * [Journal of Big Data](http://journalofbigdata.springeropen.com/)
+ * [Big Data & Society](http://journals.sagepub.com/home/bds)
+ * [Data Science Journal](https://www.jstage.jst.go.jp/browse/dsj)
+ * [datatau.com/news](http://www.datatau.com/news) - Like Hacker News, but for data
+ * [Data Science Trello Board](https://trello.com/b/rbpEfMld/data-science)
+ * [Medium Data Science Topic](https://medium.com/topic/data-science) - Data Science related publications on medium
+
 ## **Colleges**
 
 - [All Data Science Colleges](http://datascience.community/colleges)
