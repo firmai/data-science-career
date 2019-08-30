@@ -409,6 +409,44 @@ A classic, but still good to this day. I mean come on, [Nate Silver](https://fiv
 Lastly, I’ve got to give a shoutout to the [TDS Team](https://towardsdatascience.com/u/7e12c71dfa81?source=post_page-----ea6afbe20319----------------------) for bringing together this community of smart people with a passion for achieving things and helping others grow in data science. Browsing recent stories will bring you more than a few interesting project ideas on any given day.
 
 
+## Problem Solving Sites
+
+
+- HackerRank (http://hackerrank.com/)
+- CodeChef (http://codechef.com/)
+- HackerEarth(http://hackerearth.com/)
+- LeetCode (http://leetcode.com/)
+- Topcoder (http://topcoder.com/)
+- Kaggle (http://kaggle.com/)
+- ChallengePost (http://challengepost.com/)
+- CodeForces (http://codeforces.com/)
+- Brilliant (http://brilliant.org/)
+- SPOJ (http://www.spoj.com/)
+- Project Euler (https://projecteuler.net/)
+- CodingBat (http://codingbat.com/)
+- Codewars (http://www.codewars.com/)
+- Codility (https://codility.com/)
+- Codingame (https://www.codingame.com/)
+- CoderByte (https://coderbyte.com/)
+- CodeEval (https://www.codeeval.com/)
+- UVA Online Judge (https://uva.onlinejudge.org/)
+- CodeFights (https://codefights.com/)
+- CheckiO (http://www.checkio.org/)
+- Talentbuddy (http://talentbuddy.co/)
+- PythonChallenge (http://pythonchallenge.com/)
+- LintCode (http://www.lintcode.com/en/)
+- Rosalind (http://rosalind.info/problems/locations/)
+- CrowdANALYTIX (https://www.crowdanalytix.com/)
+- SQL-EX.RU (http://sql-ex.ru/)
+- Kattis (http://www.kattis.com/)
+- CodeKata (http://codekata.com/)
+- CodeAbbey (http://codeabbey.com/)
+- FightCode (http://fightcodegame.com/)
+- BeatMyCode (http://www.beatmycode.com/)
+- TunedIT (http://tunedit.org/)
+- MLComp (http://mlcomp.org/)
+- HPC University (http://hpcuniversity.org/students/weeklyChallenge/)
+- Practice It (https://practiceit.cs.washington.edu/)
 
 # Interviews
 
@@ -740,45 +778,6 @@ Datameer
 - Banking
 - Insurances
 
-
-### Problem Solving Sites
-
-
-- HackerRank (http://hackerrank.com/)
-- CodeChef (http://codechef.com/)
-- HackerEarth(http://hackerearth.com/)
-- LeetCode (http://leetcode.com/)
-- Topcoder (http://topcoder.com/)
-- Kaggle (http://kaggle.com/)
-- ChallengePost (http://challengepost.com/)
-- CodeForces (http://codeforces.com/)
-- Brilliant (http://brilliant.org/)
-- SPOJ (http://www.spoj.com/)
-- Project Euler (https://projecteuler.net/)
-- CodingBat (http://codingbat.com/)
-- Codewars (http://www.codewars.com/)
-- Codility (https://codility.com/)
-- Codingame (https://www.codingame.com/)
-- CoderByte (https://coderbyte.com/)
-- CodeEval (https://www.codeeval.com/)
-- UVA Online Judge (https://uva.onlinejudge.org/)
-- CodeFights (https://codefights.com/)
-- CheckiO (http://www.checkio.org/)
-- Talentbuddy (http://talentbuddy.co/)
-- PythonChallenge (http://pythonchallenge.com/)
-- LintCode (http://www.lintcode.com/en/)
-- Rosalind (http://rosalind.info/problems/locations/)
-- CrowdANALYTIX (https://www.crowdanalytix.com/)
-- SQL-EX.RU (http://sql-ex.ru/)
-- Kattis (http://www.kattis.com/)
-- CodeKata (http://codekata.com/)
-- CodeAbbey (http://codeabbey.com/)
-- FightCode (http://fightcodegame.com/)
-- BeatMyCode (http://www.beatmycode.com/)
-- TunedIT (http://tunedit.org/)
-- MLComp (http://mlcomp.org/)
-- HPC University (http://hpcuniversity.org/students/weeklyChallenge/)
-- Practice It (https://practiceit.cs.washington.edu/)
 
 
 ### **Resume**
