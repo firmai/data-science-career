@@ -24,7 +24,8 @@ This repo is designed to give prospective analytical employees some additional i
 - [Kununu](https://www.kununu.com/us) - Best well-rounded infromation.
 - [Comparably](https://www.comparably.com/) - Best comparison functionality.
 - [InHerSight](https://www.inhersight.com/) - Best female-friendly perspective.
-
+- [Paysa](https://www.paysa.com/https://www.paysa.com/) - Are you getting paid your market salary.
+- [Levels.fyi](https://www.levels.fyi/) - Compare career levels across companies. 
 
 
 ## Respected Online Courses
@@ -141,6 +142,46 @@ This repo is designed to give prospective analytical employees some additional i
 - [Business Intelligence Analyst](https://www.indeed.com/jobs?q=Business+Intelligence+Analyst&l=)
 - [Machine Learning Engineer](https://www.indeed.com/jobs?q=Machine+Learning+Engineer&l=)
 - [Statistician](https://www.indeed.com/jobs?q=Statistician&l=)
+
+
+### Linkedin Groups
+
+
+- Data Mining, Statistics, Big Data, Data Visualization, and Data Science
+- Artificial Intelligence, Deep Learning, Machine Learning
+- Big Data, Analytics, Business Intelligence & Visualization Experts Community
+- KDnuggets Machine Learning, Data Science, Data Mining, Big Data, AI
+- Cloud Computing, SaaS & Virtualization
+- Data Warehouse — Big Data — Hadoop — Cloud — Data Science — ETL
+- Artificial Intelligence, Deep Learning and IoT
+- SQL Server Business Intelligence(BI)
+- Internet of Things
+- Bank and Finance Technology — FinTech Banking Systems Financial Executives
+- Cloud Computing
+- Python Community
+- Python Data Science and Machine Learning
+
+
+### Reddit:
+
+- Dataengineering
+- Dataisbeautiful
+- Datasets
+- Datascienceproject
+- Learndatascience
+- Learnprogramming
+- Learnpython
+- Machinelearning
+- Learnmachinelearning
+- Python
+- Computervision
+- learnprogramming
+- Businessintelligence
+- programming
+- Scala
+- AWS
+- bigdata
+- SQL
 
 
 ## **Main Industry Companies**
@@ -697,6 +738,47 @@ Datameer
 - Internet
 - Banking
 - Insurances
+
+
+### Problem Solving Sites
+
+
+- HackerRank (http://hackerrank.com/)
+- CodeChef (http://codechef.com/)
+- HackerEarth(http://hackerearth.com/)
+- LeetCode (http://leetcode.com/)
+- Topcoder (http://topcoder.com/)
+- Kaggle (http://kaggle.com/)
+- ChallengePost (http://challengepost.com/)
+- CodeForces (http://codeforces.com/)
+- Brilliant (http://brilliant.org/)
+- SPOJ (http://www.spoj.com/)
+- Project Euler (https://projecteuler.net/)
+- CodingBat (http://codingbat.com/)
+- Codewars (http://www.codewars.com/)
+- Codility (https://codility.com/)
+- Codingame (https://www.codingame.com/)
+- CoderByte (https://coderbyte.com/)
+- CodeEval (https://www.codeeval.com/)
+- UVA Online Judge (https://uva.onlinejudge.org/)
+- CodeFights (https://codefights.com/)
+- CheckiO (http://www.checkio.org/)
+- Talentbuddy (http://talentbuddy.co/)
+- PythonChallenge (http://pythonchallenge.com/)
+- LintCode (http://www.lintcode.com/en/)
+- Rosalind (http://rosalind.info/problems/locations/)
+- CrowdANALYTIX (https://www.crowdanalytix.com/)
+- SQL-EX.RU (http://sql-ex.ru/)
+- Kattis (http://www.kattis.com/)
+- CodeKata (http://codekata.com/)
+- CodeAbbey (http://codeabbey.com/)
+- FightCode (http://fightcodegame.com/)
+- BeatMyCode (http://www.beatmycode.com/)
+- TunedIT (http://tunedit.org/)
+- MLComp (http://mlcomp.org/)
+- HPC University (http://hpcuniversity.org/students/weeklyChallenge/)
+- Practice It (https://practiceit.cs.washington.edu/)
+
 
 ### **Resume**
 - [Resume Builder](https://github.com/salomonelli/best-resume-ever) 
