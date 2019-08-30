@@ -409,7 +409,7 @@ A classic, but still good to this day. I mean come on, [Nate Silver](https://fiv
 Lastly, I’ve got to give a shoutout to the [TDS Team](https://towardsdatascience.com/u/7e12c71dfa81?source=post_page-----ea6afbe20319----------------------) for bringing together this community of smart people with a passion for achieving things and helping others grow in data science. Browsing recent stories will bring you more than a few interesting project ideas on any given day.
 
 
-## Problem Solving Sites
+## Technical Prep
 
 
 - HackerRank (http://hackerrank.com/)
