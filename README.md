@@ -476,7 +476,7 @@ Lastly, I’ve got to give a shoutout to the [TDS Team](https://towardsdatascien
 - [Two Sides of Getting a Job as a Data Scientist](https://towardsdatascience.com/the-two-sides-of-getting-a-job-as-a-data-scientist-a4571acc58bc)
 - [Robert Chang Doing Data Science at Twitter](https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6) 
 - [Questions I’m Asking in Interviews](https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/)
-- [Creating a Great Data Science Resume](https://will-stanton.com/2015/07/15/creating-a-great-data-science-resume/)
+- [Creating a Great Data Science Resume](https://will-stanton.com/creating-a-great-data-science-resume/)
 - [Data Science Interview Guide](https://towardsdatascience.com/data-science-interview-guide-4ee9f5dc778)
 - [3 Types of Data Science Interview Questions Joma Tech](https://www.youtube.com/watch?v=4Z6lxfglvUU)
 - [How to Land a Data Scientist Position at Airbnb](https://towardsdatascience.com/how-to-land-a-data-scientist-job-at-your-dream-company-my-journey-to-airbnb-f6a1e99892e8)
