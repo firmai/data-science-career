@@ -207,6 +207,7 @@ This repo is designed to give prospective analytical employees some additional i
     - JP Morgan
     - Barclays
     - Goldman Sachs
+    - ING
     - Two Sigma
     - Renaissance
     - Citadel
