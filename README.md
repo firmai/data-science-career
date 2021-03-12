@@ -632,6 +632,7 @@ Lastly, I’ve got to give a shoutout to the [TDS Team](https://towardsdatascien
 - [Python interview questions. Part II. Middle](https://luminousmen.com/post/7)
 - [Python interview questions. Part III. Senior](https://luminousmen.com/post/8)
 - [Python Interview Questions and Answers (2019)](https://www.interviewbit.com/python-interview-questions/)
+- [Python Interview Questions and Answers (2021)](https://www.thetechlearn.com/python-interview-questions-and-answers/)
 
 **Scala**
 
