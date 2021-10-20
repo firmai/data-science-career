@@ -2,11 +2,6 @@
 
 ---------
 
-## Sov.ai Research Lab (Sponsorship)
-
-Animated Investment Management Research at [Sov.ai](https://sov.ai) — Sponsoring open source AI, Machine learning, and Data Science initiatives.
-
----------
 
 This repo is designed to give prospective analytical employees some additional information that might help with the job search. It takes inspiration from [Conor Dewey](https://github.com/conordewey3),  [Academic](https://github.com/academic/awesome-datascience), [CIO](https://www.cio.com/article/3051124/10-boot-camps-to-kick-start-your-data-science-career.html), [ZuZooVN](https://github.com/ZuzooVn/machine-learning-for-software-engineers), [Maxim](https://github.com/MaximAbramchuck), [ryanswanstorm](https://github.com/ryanswanstrom/awesome-datascience-colleges)
 
