@@ -16,7 +16,7 @@ This repo is designed to give prospective analytical employees some additional i
 5. [Direct](https://github.com/firmai/business-machine-learning-vendors) - Contact companies directly (not recommended)
 6. [AI Jobs](https://ai-jobs.net/) - Jobs in AI and Big Data
 7. [Analytics Jobs UK](https://www.analyticsjobs.co.uk/) - Support analytics workers with useful career information
-
+8. [Microprediction](https://www.microprediction.com/jobs) - Job postings and platform to prove you can deploy time-series models in real-time. 
 
 
 ## Reviews:
