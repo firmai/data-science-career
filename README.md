@@ -38,6 +38,7 @@ This repo is designed to give prospective analytical employees some additional i
 - [Machine Learning and Deep Learning Fast.ai](https://www.fast.ai/)
 - [Machine Learning with TensorFlow on Google Cloud Platform](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
 - [TensorFlow in Practice Specialization](https://www.coursera.org/specializations/tensorflow-in-practice)
+- [Data Science Tutorial](https://www.scaler.com/topics/data-science/)
 
 
 ## **Competitions**
