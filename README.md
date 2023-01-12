@@ -536,6 +536,7 @@ Lastly, I’ve got to give a shoutout to the [TDS Team](https://towardsdatascien
 - [10 Frequently Asked SQL Questions](http://www.java67.com/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html)
 - [45 Essential SQL Interview Questions](https://www.toptal.com/sql/interview-questions)
 - [More SQL practice on Github](https://github.com/XD-DENG/SQL-exercise)
+- [80+ SQL Interview Questions and Answers (2023)](https://www.adaface.com/blog/sql-interview-questions/)
 
 
 **Data Analysis & Pandas**
