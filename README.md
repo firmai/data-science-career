@@ -266,6 +266,9 @@ I don't know the other areas that well, send my your thought leaders by pull req
     - Charles Elkan
     - Mike Schuster
 - [Health Care](https://en.wikipedia.org/wiki/Health_care)
+    -Dr. Marzyeh Ghassemi 
+    -Professor Mihaela van der Schaar 
+    -Dr. Yuan Liu
 - [Insurance](https://en.wikipedia.org/wiki/Insurance)
 - [Law Enforcement](https://en.wikipedia.org/wiki/Law_enforcement)
 - [Logistics](https://en.wikipedia.org/wiki/Logistics)
