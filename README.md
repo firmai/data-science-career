@@ -496,6 +496,7 @@ Lastly, I’ve got to give a shoutout to the [TDS Team](https://towardsdatascien
 - [Data Science Interview Questions for Top Tech Companies](https://www.dezyre.com/article/-data-science-interview-questions-for-top-tech-companies/189)
 - [66 Job Interview Questions for Data Scientists](http://www.datasciencecentral.com/profiles/blogs/66-job-interview-questions-for-data-scientists)
 - [An Annotated List of Data Scientist Technical Interview Questions](https://www.recruityourninja.com/technical-interview-questions-data-scientist/)
+- [Data Science Interview Questions And Answers](https://www.interviewbit.com/data-science-interview-questions/)
 
 **Algorithmic Coding & Python**
 
@@ -546,6 +547,7 @@ Lastly, I’ve got to give a shoutout to the [TDS Team](https://towardsdatascien
 - [Excel Tasks in Pandas](http://pbpython.com/excel-pandas-comp.html)
 - [Data Analyst Interview Practice Checkist Udacity](https://classroom.udacity.com/courses/ud944/lessons/d982ccec-8895-4362-981e-05bd266ac783/concepts/399b5b79-7fa9-435d-91ed-bd74369ff5d9)
 - [More Pandas Exercises on Github](https://github.com/guipsamora/pandas_exercises)
+- [Data Analyst Interview Questions And Answers](https://www.interviewbit.com/data-analyst-interview-questions/)
 
 **Machine Learning**
 
