@@ -16,7 +16,7 @@ This repo is designed to give prospective analytical employees some additional i
 5. [Direct](https://github.com/firmai/business-machine-learning-vendors) - Contact companies directly (not recommended)
 6. [AI Jobs](https://ai-jobs.net/) - Jobs in AI and Big Data
 7. [Analytics Jobs UK](https://www.analyticsjobs.co.uk/) - Support analytics workers with useful career information
-
+8. [Scaler Blogs](https://www.scaler.com/blog/category/data-science-business-analytics/) - Discover your tech career path with expertly crafted roadmaps and insights.
 
 
 ## Reviews:
