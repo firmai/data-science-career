@@ -665,6 +665,7 @@ Lastly, I’ve got to give a shoutout to the [TDS Team](https://towardsdatascien
 **SQL**
 
 - [10 Frequently asked SQL Query Interview Questions](http://java67.blogspot.com.by/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html)
+- [30 Mostly asked SQL Interview Questions and Answers](https://boldcoder.blogspot.com/2024/08/fresher-sql-interview-questions.html)
 - [45 Essential SQL Interview Questions from Toptal](http://www.toptal.com/sql/interview-questions)
 - [Common Interview Questions and Answers](http://www.indiabix.com/technical/sql-server-common-questions/)
 - [General Interview Questions and Answers](http://www.indiabix.com/technical/sql-server-general-questions/)
