@@ -496,6 +496,9 @@ Lastly, I’ve got to give a shoutout to the [TDS Team](https://towardsdatascien
 - [Data Science Interview Questions for Top Tech Companies](https://www.dezyre.com/article/-data-science-interview-questions-for-top-tech-companies/189)
 - [66 Job Interview Questions for Data Scientists](http://www.datasciencecentral.com/profiles/blogs/66-job-interview-questions-for-data-scientists)
 - [An Annotated List of Data Scientist Technical Interview Questions](https://www.recruityourninja.com/technical-interview-questions-data-scientist/)
+- [Top 100+ Data Science Interview Questions and Answers](https://www.appliedaicourse.com/blog/data-science-interview-questions/)
+- [Data Science Roadmap: An In-Depth Guide](https://www.appliedaicourse.com/blog/data-science-roadmap/)
+- [How to Break Into Data Analytics in 2025: A Guide for Beginners with No Experience](https://dev.to/bikashdaga/how-to-break-into-data-analytics-in-2025-a-guide-for-beginners-with-no-experience-20ml)
 
 **Algorithmic Coding & Python**
 
