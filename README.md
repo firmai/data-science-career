@@ -799,6 +799,7 @@ Datameer
 
 ### **Resume**
 - [Resume Builder](https://github.com/salomonelli/best-resume-ever) 
+- [ResumeAI](https://withresumeai.com/) - Free ATS checker and AI resume builder
 
 
 ### **Sponsors**
