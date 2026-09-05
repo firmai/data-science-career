@@ -349,6 +349,10 @@ I don't know the other areas that well, send my your thought leaders by pull req
 
 ## Newsletters:
 
+[**AI Weekly**](https://aiweekly.co/)
+
+AI Weekly tracks what influential AI experts and organizations are reading and sharing, then ranks and explains developments in models, agents, funding, policy, and research. It is free and published three times a week for more than 53,000 professionals.
+
 [**Data Science Weekly**](https://www.datascienceweekly.org/)
 
 Data Science Weekly is definitely a fan-favorite, and for good reason. The newsletter started in 2013 and has pumped out 276 consistent issues since. It starts off with an *Editor Picks* section and quickly moves onto listing a bunch of data science articles and videos. Furthermore, it includes a section for job openings, tutorials, and books as well. Sent every Thursday, this one is well worth your time. Check out a [recent issue](https://www.datascienceweekly.org/newsletters/data-science-weekly-newsletter-issue-276).
@@ -808,5 +812,4 @@ Datameer
 Tired of technical phone screens? Take Triplebyte’s <a href="https://triplebyte.com/a/Nosq7GM/careerb">quiz</a> and go straight to final onsite interviews! Also check out Triplebyte’s <a href="https://triplebyte.com/a/Nosq7GM/careera?page=salary">Salary Tool!</a> They use real data from actual offers made to Triplebyte engineers. A few of the companies that use Triplebyte include Adobe, Robinhood, Box, Dropbox, Instacart, Evernote, Hipmunk, Grammarly & Palantir
 
 [r/datascienceproject](https://www.reddit.com/r/datascienceproject/) is a subreddit where you can share all your data science projects. There is no restrictions on self promotion. Let the best post rise to the top. One rule, it has to relate to a data science project.
-
 
