@@ -799,6 +799,7 @@ Datameer
 
 ### **Resume**
 - [Resume Builder](https://github.com/salomonelli/best-resume-ever) 
+- [JobEmerge](https://www.jobemerge.work) - AI career copilot with job-fit analysis, resume translation in 19 languages, Markdown resume editing, text-based mock interviews, and application tracking.
 
 
 ### **Sponsors**
