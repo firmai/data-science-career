@@ -799,6 +799,7 @@ Datameer
 
 ### **Resume**
 - [Resume Builder](https://github.com/salomonelli/best-resume-ever) 
+- [ResumeInvited](https://resumeinvited.com/) — Free browser-based resume builder with live preview, local drafts, and PDF or editable Word export without an account.
 
 
 ### **Sponsors**
